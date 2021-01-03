@@ -1,4 +1,4 @@
-name,group,year,value,subGroup,city_id,iso_code,%populatie,Added index,lat,lon,value2,lastValue
+name,group,year,value2,subGroup,city_id,iso_code,%populatie,Added index,lat,lon,value,lastValue
 Afghanistan,Asia,0,null,Afghanistan,Afghanistan,AFG,null,0,33,65,null,null
 Afghanistan,Asia,1,null,Afghanistan,Afghanistan,AFG,null,1,33,65,null,null
 Afghanistan,Asia,2,null,Afghanistan,Afghanistan,AFG,null,2,33,65,null,null
