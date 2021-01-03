@@ -135,10 +135,10 @@ Argentina,South America,12,null,Argentina,Argentina,ARG,null,132,-34,-64,null,nu
 Argentina,South America,13,null,Argentina,Argentina,ARG,null,133,-34,-64,null,null
 Argentina,South America,14,null,Argentina,Argentina,ARG,null,134,-34,-64,null,null
 Argentina,South America,15,700,Argentina,Argentina,ARG,0.001548817,135,-34,-64,700,null
-Argentina,South America,16,null,Argentina,Argentina,ARG,null,136,-34,-64,null,700
-Argentina,South America,17,32013,Argentina,Argentina,ARG,0.070831839,137,-34,-64,32013,null
-Argentina,South America,18,null,Argentina,Argentina,ARG,null,138,-34,-64,null,32013
-Argentina,South America,19,null,Argentina,Argentina,ARG,null,139,-34,-64,null,null
+Argentina,South America,16,null,Argentina,Argentina,ARG,null,136,-34,-64,700,700
+Argentina,South America,17,32013,Argentina,Argentina,ARG,0.070831839,137,-34,-64,32013,700
+Argentina,South America,18,null,Argentina,Argentina,ARG,null,138,-34,-64,32013,32013
+Argentina,South America,19,null,Argentina,Argentina,ARG,null,139,-34,-64,32013,32013
 Armenia,Asia,0,null,Armenia,Armenia,ARM,null,140,40,45,null,null
 Armenia,Asia,1,null,Armenia,Armenia,ARM,null,141,40,45,null,null
 Armenia,Asia,2,null,Armenia,Armenia,ARM,null,142,40,45,null,null
@@ -196,9 +196,9 @@ Austria,Europe,13,null,Austria,Austria,AUT,null,193,47.3333,13.3333,null,null
 Austria,Europe,14,null,Austria,Austria,AUT,null,194,47.3333,13.3333,null,null
 Austria,Europe,15,null,Austria,Austria,AUT,null,195,47.3333,13.3333,null,null
 Austria,Europe,16,6000,Austria,Austria,AUT,0.066619293,196,47.3333,13.3333,6000,null
-Austria,Europe,17,null,Austria,Austria,AUT,null,197,47.3333,13.3333,null,6000
-Austria,Europe,18,null,Austria,Austria,AUT,null,198,47.3333,13.3333,null,null
-Austria,Europe,19,null,Austria,Austria,AUT,null,199,47.3333,13.3333,null,null
+Austria,Europe,17,null,Austria,Austria,AUT,null,197,47.3333,13.3333,6000,6000
+Austria,Europe,18,null,Austria,Austria,AUT,null,198,47.3333,13.3333,6000,6000
+Austria,Europe,19,null,Austria,Austria,AUT,null,199,47.3333,13.3333,6000,6000
 Azerbaijan,Asia,0,null,Azerbaijan,Azerbaijan,AZE,null,200,40.5,47.5,null,null
 Azerbaijan,Asia,1,null,Azerbaijan,Azerbaijan,AZE,null,201,40.5,47.5,null,null
 Azerbaijan,Asia,2,null,Azerbaijan,Azerbaijan,AZE,null,202,40.5,47.5,null,null
@@ -516,9 +516,9 @@ Bulgaria,Europe,13,null,Bulgaria,Bulgaria,BGR,null,513,43,25,null,null
 Bulgaria,Europe,14,null,Bulgaria,Bulgaria,BGR,null,514,43,25,null,null
 Bulgaria,Europe,15,1719,Bulgaria,Bulgaria,BGR,0.024739348,515,43,25,1719,null
 Bulgaria,Europe,16,4608,Bulgaria,Bulgaria,BGR,0.066316996,516,43,25,4608,1719
-Bulgaria,Europe,17,null,Bulgaria,Bulgaria,BGR,null,517,43,25,null,4608
-Bulgaria,Europe,18,4739,Bulgaria,Bulgaria,BGR,0.06820231,518,43,25,4739,null
-Bulgaria,Europe,19,null,Bulgaria,Bulgaria,BGR,null,519,43,25,null,4739
+Bulgaria,Europe,17,null,Bulgaria,Bulgaria,BGR,null,517,43,25,4608,4608
+Bulgaria,Europe,18,4739,Bulgaria,Bulgaria,BGR,0.06820231,518,43,25,4739,4608
+Bulgaria,Europe,19,null,Bulgaria,Bulgaria,BGR,null,519,43,25,4739,4739
 Burkina Faso,Africa,0,null,Burkina Faso,Burkina Faso,BFA,null,520,13,-2,null,null
 Burkina Faso,Africa,1,null,Burkina Faso,Burkina Faso,BFA,null,521,13,-2,null,null
 Burkina Faso,Africa,2,null,Burkina Faso,Burkina Faso,BFA,null,522,13,-2,null,null
@@ -693,32 +693,32 @@ Chile,South America,10,420,Chile,Chile,CHL,0.002197088,690,-30,-71,420,null
 Chile,South America,11,5192,Chile,Chile,CHL,0.027160197,691,-30,-71,5192,420
 Chile,South America,12,8337,Chile,Chile,CHL,0.043612204,692,-30,-71,8337,5192
 Chile,South America,13,8648,Chile,Chile,CHL,0.045239095,693,-30,-71,8648,8337
-Chile,South America,14,null,Chile,Chile,CHL,null,694,-30,-71,null,8648
-Chile,South America,15,null,Chile,Chile,CHL,null,695,-30,-71,null,null
-Chile,South America,16,null,Chile,Chile,CHL,null,696,-30,-71,null,null
-Chile,South America,17,null,Chile,Chile,CHL,null,697,-30,-71,null,null
-Chile,South America,18,null,Chile,Chile,CHL,null,698,-30,-71,null,null
-Chile,South America,19,null,Chile,Chile,CHL,null,699,-30,-71,null,null
+Chile,South America,14,null,Chile,Chile,CHL,null,694,-30,-71,8648,8648
+Chile,South America,15,null,Chile,Chile,CHL,null,695,-30,-71,8648,8648
+Chile,South America,16,null,Chile,Chile,CHL,null,696,-30,-71,8648,8648
+Chile,South America,17,null,Chile,Chile,CHL,null,697,-30,-71,8648,8648
+Chile,South America,18,null,Chile,Chile,CHL,null,698,-30,-71,8648,8648
+Chile,South America,19,null,Chile,Chile,CHL,null,699,-30,-71,8648,8648
 China,Asia,0,null,China,China,CHN,null,700,35,105,null,null
 China,Asia,1,1500000,China,China,CHN,0.104215606,701,35,105,1500000,null
-China,Asia,2,null,China,China,CHN,null,702,35,105,null,1500000
-China,Asia,3,null,China,China,CHN,null,703,35,105,null,null
-China,Asia,4,null,China,China,CHN,null,704,35,105,null,null
-China,Asia,5,null,China,China,CHN,null,705,35,105,null,null
-China,Asia,6,null,China,China,CHN,null,706,35,105,null,null
-China,Asia,7,null,China,China,CHN,null,707,35,105,null,null
-China,Asia,8,null,China,China,CHN,null,708,35,105,null,null
-China,Asia,9,null,China,China,CHN,null,709,35,105,null,null
-China,Asia,10,null,China,China,CHN,null,710,35,105,null,null
-China,Asia,11,null,China,China,CHN,null,711,35,105,null,null
-China,Asia,12,null,China,China,CHN,null,712,35,105,null,null
-China,Asia,13,null,China,China,CHN,null,713,35,105,null,null
-China,Asia,14,null,China,China,CHN,null,714,35,105,null,null
-China,Asia,15,null,China,China,CHN,null,715,35,105,null,null
-China,Asia,16,null,China,China,CHN,null,716,35,105,null,null
-China,Asia,17,4500000,China,China,CHN,0.312646819,717,35,105,4500000,null
-China,Asia,18,null,China,China,CHN,null,718,35,105,null,4500000
-China,Asia,19,null,China,China,CHN,null,719,35,105,null,null
+China,Asia,2,null,China,China,CHN,null,702,35,105,1500000,1500000
+China,Asia,3,null,China,China,CHN,null,703,35,105,1500000,1500000
+China,Asia,4,null,China,China,CHN,null,704,35,105,1500000,1500000
+China,Asia,5,null,China,China,CHN,null,705,35,105,1500000,1500000
+China,Asia,6,null,China,China,CHN,null,706,35,105,1500000,1500000
+China,Asia,7,null,China,China,CHN,null,707,35,105,1500000,1500000
+China,Asia,8,null,China,China,CHN,null,708,35,105,1500000,1500000
+China,Asia,9,null,China,China,CHN,null,709,35,105,1500000,1500000
+China,Asia,10,null,China,China,CHN,null,710,35,105,1500000,1500000
+China,Asia,11,null,China,China,CHN,null,711,35,105,1500000,1500000
+China,Asia,12,null,China,China,CHN,null,712,35,105,1500000,1500000
+China,Asia,13,null,China,China,CHN,null,713,35,105,1500000,1500000
+China,Asia,14,null,China,China,CHN,null,714,35,105,1500000,1500000
+China,Asia,15,null,China,China,CHN,null,715,35,105,1500000,1500000
+China,Asia,16,null,China,China,CHN,null,716,35,105,1500000,1500000
+China,Asia,17,4500000,China,China,CHN,0.312646819,717,35,105,4500000,1500000
+China,Asia,18,null,China,China,CHN,null,718,35,105,4500000,4500000
+China,Asia,19,null,China,China,CHN,null,719,35,105,4500000,4500000
 Colombia,South America,0,null,Colombia,Colombia,COL,null,720,4,-72,null,null
 Colombia,South America,1,null,Colombia,Colombia,COL,null,721,4,-72,null,null
 Colombia,South America,2,null,Colombia,Colombia,COL,null,722,4,-72,null,null
@@ -790,15 +790,15 @@ Costa Rica,North America,7,null,Costa Rica,Costa Rica,CRI,null,787,10,-84,null,n
 Costa Rica,North America,8,null,Costa Rica,Costa Rica,CRI,null,788,10,-84,null,null
 Costa Rica,North America,9,null,Costa Rica,Costa Rica,CRI,null,789,10,-84,null,null
 Costa Rica,North America,10,55,Costa Rica,Costa Rica,CRI,0.001079677,790,10,-84,55,null
-Costa Rica,North America,11,null,Costa Rica,Costa Rica,CRI,null,791,10,-84,null,55
-Costa Rica,North America,12,null,Costa Rica,Costa Rica,CRI,null,792,10,-84,null,null
-Costa Rica,North America,13,null,Costa Rica,Costa Rica,CRI,null,793,10,-84,null,null
-Costa Rica,North America,14,null,Costa Rica,Costa Rica,CRI,null,794,10,-84,null,null
-Costa Rica,North America,15,null,Costa Rica,Costa Rica,CRI,null,795,10,-84,null,null
-Costa Rica,North America,16,null,Costa Rica,Costa Rica,CRI,null,796,10,-84,null,null
-Costa Rica,North America,17,null,Costa Rica,Costa Rica,CRI,null,797,10,-84,null,null
-Costa Rica,North America,18,null,Costa Rica,Costa Rica,CRI,null,798,10,-84,null,null
-Costa Rica,North America,19,null,Costa Rica,Costa Rica,CRI,null,799,10,-84,null,null
+Costa Rica,North America,11,null,Costa Rica,Costa Rica,CRI,null,791,10,-84,55,55
+Costa Rica,North America,12,null,Costa Rica,Costa Rica,CRI,null,792,10,-84,55,55
+Costa Rica,North America,13,null,Costa Rica,Costa Rica,CRI,null,793,10,-84,55,55
+Costa Rica,North America,14,null,Costa Rica,Costa Rica,CRI,null,794,10,-84,55,55
+Costa Rica,North America,15,null,Costa Rica,Costa Rica,CRI,null,795,10,-84,55,55
+Costa Rica,North America,16,null,Costa Rica,Costa Rica,CRI,null,796,10,-84,55,55
+Costa Rica,North America,17,null,Costa Rica,Costa Rica,CRI,null,797,10,-84,55,55
+Costa Rica,North America,18,null,Costa Rica,Costa Rica,CRI,null,798,10,-84,55,55
+Costa Rica,North America,19,null,Costa Rica,Costa Rica,CRI,null,799,10,-84,55,55
 Cote d'Ivoire,Africa,0,null,Cote d'Ivoire,Cote d'Ivoire,CIV,null,800,8,-5,null,null
 Cote d'Ivoire,Africa,1,null,Cote d'Ivoire,Cote d'Ivoire,CIV,null,801,8,-5,null,null
 Cote d'Ivoire,Africa,2,null,Cote d'Ivoire,Cote d'Ivoire,CIV,null,802,8,-5,null,null
@@ -836,9 +836,9 @@ Croatia,Europe,13,null,Croatia,Croatia,HRV,null,833,45.1667,15.5,null,null
 Croatia,Europe,14,null,Croatia,Croatia,HRV,null,834,45.1667,15.5,null,null
 Croatia,Europe,15,null,Croatia,Croatia,HRV,null,835,45.1667,15.5,null,null
 Croatia,Europe,16,7864,Croatia,Croatia,HRV,0.191558748,836,45.1667,15.5,7864,null
-Croatia,Europe,17,null,Croatia,Croatia,HRV,null,837,45.1667,15.5,null,7864
-Croatia,Europe,18,null,Croatia,Croatia,HRV,null,838,45.1667,15.5,null,null
-Croatia,Europe,19,null,Croatia,Croatia,HRV,null,839,45.1667,15.5,null,null
+Croatia,Europe,17,null,Croatia,Croatia,HRV,null,837,45.1667,15.5,7864,7864
+Croatia,Europe,18,null,Croatia,Croatia,HRV,null,838,45.1667,15.5,7864,7864
+Croatia,Europe,19,null,Croatia,Croatia,HRV,null,839,45.1667,15.5,7864,7864
 Cuba,North America,0,null,Cuba,Cuba,CUB,null,840,21.5,-80,null,null
 Cuba,North America,1,null,Cuba,Cuba,CUB,null,841,21.5,-80,null,null
 Cuba,North America,2,null,Cuba,Cuba,CUB,null,842,21.5,-80,null,null
@@ -1118,7 +1118,7 @@ Estonia,Europe,15,516,Estonia,Estonia,EST,0.038898216,1115,59,26,516,207
 Estonia,Europe,16,884,Estonia,Estonia,EST,0.066639579,1116,59,26,884,516
 Estonia,Europe,17,1907,Estonia,Estonia,EST,0.143757553,1117,59,26,1907,884
 Estonia,Europe,18,2487,Estonia,Estonia,EST,0.187480353,1118,59,26,2487,1907
-Estonia,Europe,19,null,Estonia,Estonia,EST,null,1119,59,26,null,2487
+Estonia,Europe,19,null,Estonia,Estonia,EST,null,1119,59,26,2487,2487
 Eswatini,Africa,0,null,Eswatini,Eswatini,SWZ,null,1120,-26.5,31.5,null,null
 Eswatini,Africa,1,null,Eswatini,Eswatini,SWZ,null,1121,-26.5,31.5,null,null
 Eswatini,Africa,2,null,Eswatini,Eswatini,SWZ,null,1122,-26.5,31.5,null,null
@@ -1197,8 +1197,8 @@ Finland,Europe,14,null,Finland,Finland,FIN,null,1194,64,26,null,null
 Finland,Europe,15,null,Finland,Finland,FIN,null,1195,64,26,null,null
 Finland,Europe,16,null,Finland,Finland,FIN,null,1196,64,26,null,null
 Finland,Europe,17,1767,Finland,Finland,FIN,0.031891174,1197,64,26,1767,null
-Finland,Europe,18,null,Finland,Finland,FIN,null,1198,64,26,null,1767
-Finland,Europe,19,null,Finland,Finland,FIN,null,1199,64,26,null,null
+Finland,Europe,18,null,Finland,Finland,FIN,null,1198,64,26,1767,1767
+Finland,Europe,19,null,Finland,Finland,FIN,null,1199,64,26,1767,1767
 France,Europe,0,null,France,France,FRA,null,1200,46,2,null,null
 France,Europe,1,null,France,France,FRA,null,1201,46,2,null,null
 France,Europe,2,null,France,France,FRA,null,1202,46,2,null,null
@@ -1217,8 +1217,8 @@ France,Europe,14,null,France,France,FRA,null,1214,46,2,null,null
 France,Europe,15,null,France,France,FRA,null,1215,46,2,null,null
 France,Europe,16,332,France,France,FRA,0.000508629,1216,46,2,332,null
 France,Europe,17,352,France,France,FRA,0.000539269,1217,46,2,352,332
-France,Europe,18,null,France,France,FRA,null,1218,46,2,null,352
-France,Europe,19,null,France,France,FRA,null,1219,46,2,null,null
+France,Europe,18,null,France,France,FRA,null,1218,46,2,352,352
+France,Europe,19,null,France,France,FRA,null,1219,46,2,352,352
 Gabon,Africa,0,null,Gabon,Gabon,GAB,null,1220,-1,11.75,null,null
 Gabon,Africa,1,null,Gabon,Gabon,GAB,null,1221,-1,11.75,null,null
 Gabon,Africa,2,null,Gabon,Gabon,GAB,null,1222,-1,11.75,null,null
@@ -1298,7 +1298,7 @@ Germany,Europe,15,78109,Germany,Germany,DEU,0.093226692,1295,51,9,78109,41962
 Germany,Europe,16,131626,Germany,Germany,DEU,0.157101698,1296,51,9,131626,78109
 Germany,Europe,17,165575,Germany,Germany,DEU,0.197621394,1297,51,9,165575,131626
 Germany,Europe,18,188553,Germany,Germany,DEU,0.225046696,1298,51,9,188553,165575
-Germany,Europe,19,null,Germany,Germany,DEU,null,1299,51,9,null,188553
+Germany,Europe,19,null,Germany,Germany,DEU,null,1299,51,9,188553,188553
 Ghana,Africa,0,null,Ghana,Ghana,GHA,null,1300,8,-2,null,null
 Ghana,Africa,1,null,Ghana,Ghana,GHA,null,1301,8,-2,null,null
 Ghana,Africa,2,null,Ghana,Ghana,GHA,null,1302,8,-2,null,null
@@ -1336,9 +1336,9 @@ Greece,Europe,13,null,Greece,Greece,GRC,null,1333,39,22,null,null
 Greece,Europe,14,null,Greece,Greece,GRC,null,1334,39,22,null,null
 Greece,Europe,15,null,Greece,Greece,GRC,null,1335,39,22,null,null
 Greece,Europe,16,1763,Greece,Greece,GRC,0.016914425,1336,39,22,1763,null
-Greece,Europe,17,null,Greece,Greece,GRC,null,1337,39,22,null,1763
-Greece,Europe,18,null,Greece,Greece,GRC,null,1338,39,22,null,null
-Greece,Europe,19,3001,Greece,Greece,GRC,0.02879194,1339,39,22,3001,null
+Greece,Europe,17,null,Greece,Greece,GRC,null,1337,39,22,1763,1763
+Greece,Europe,18,null,Greece,Greece,GRC,null,1338,39,22,1763,1763
+Greece,Europe,19,3001,Greece,Greece,GRC,0.02879194,1339,39,22,3001,1763
 Grenada,North America,0,null,Grenada,Grenada,GRD,null,1340,12.1167,-61.6667,null,null
 Grenada,North America,1,null,Grenada,Grenada,GRD,null,1341,12.1167,-61.6667,null,null
 Grenada,North America,2,null,Grenada,Grenada,GRD,null,1342,12.1167,-61.6667,null,null
@@ -1499,8 +1499,8 @@ Hungary,Europe,14,1094,Hungary,Hungary,HUN,0.011324641,1496,47,20,1094,null
 Hungary,Europe,15,2461,Hungary,Hungary,HUN,0.025475267,1497,47,20,2461,1094
 Hungary,Europe,16,3789,Hungary,Hungary,HUN,0.039222181,1498,47,20,3789,2461
 Hungary,Europe,17,5110,Hungary,Hungary,HUN,0.052896634,1499,47,20,5110,3789
-Hungary,Europe,18,null,Hungary,Hungary,HUN,null,1500,47,20,null,5110
-Hungary,Europe,19,null,Hungary,Hungary,HUN,null,1501,47,20,null,null
+Hungary,Europe,18,null,Hungary,Hungary,HUN,null,1500,47,20,5110,5110
+Hungary,Europe,19,null,Hungary,Hungary,HUN,null,1501,47,20,5110,5110
 Iceland,Europe,0,null,Iceland,Iceland,ISL,null,1502,65,-18,null,null
 Iceland,Europe,1,null,Iceland,Iceland,ISL,null,1503,65,-18,null,null
 Iceland,Europe,2,null,Iceland,Iceland,ISL,null,1504,65,-18,null,null
@@ -1518,9 +1518,9 @@ Iceland,Europe,13,null,Iceland,Iceland,ISL,null,1515,65,-18,null,null
 Iceland,Europe,14,null,Iceland,Iceland,ISL,null,1516,65,-18,null,null
 Iceland,Europe,15,null,Iceland,Iceland,ISL,null,1517,65,-18,null,null
 Iceland,Europe,16,4875,Iceland,Iceland,ISL,1.428571429,1518,65,-18,4875,null
-Iceland,Europe,17,null,Iceland,Iceland,ISL,null,1519,65,-18,null,4875
-Iceland,Europe,18,null,Iceland,Iceland,ISL,null,1520,65,-18,null,null
-Iceland,Europe,19,null,Iceland,Iceland,ISL,null,1521,65,-18,null,null
+Iceland,Europe,17,null,Iceland,Iceland,ISL,null,1519,65,-18,4875,4875
+Iceland,Europe,18,null,Iceland,Iceland,ISL,null,1520,65,-18,4875,4875
+Iceland,Europe,19,null,Iceland,Iceland,ISL,null,1521,65,-18,4875,4875
 India,Asia,0,null,India,India,IND,null,1522,20,77,null,null
 India,Asia,1,null,India,India,IND,null,1523,20,77,null,null
 India,Asia,2,null,India,India,IND,null,1524,20,77,null,null
@@ -1639,8 +1639,8 @@ Ireland,Europe,14,null,Ireland,Ireland,IRL,null,1636,53,-8,null,null
 Ireland,Europe,15,null,Ireland,Ireland,IRL,null,1637,53,-8,null,null
 Ireland,Europe,16,null,Ireland,Ireland,IRL,null,1638,53,-8,null,null
 Ireland,Europe,17,1800,Ireland,Ireland,IRL,0.036453511,1639,53,-8,1800,null
-Ireland,Europe,18,null,Ireland,Ireland,IRL,null,1640,53,-8,null,1800
-Ireland,Europe,19,null,Ireland,Ireland,IRL,null,1641,53,-8,null,null
+Ireland,Europe,18,null,Ireland,Ireland,IRL,null,1640,53,-8,1800,1800
+Ireland,Europe,19,null,Ireland,Ireland,IRL,null,1641,53,-8,1800,1800
 Israel,Asia,0,null,Israel,Israel,ISR,null,1642,31.5,34.75,null,null
 Israel,Asia,1,null,Israel,Israel,ISR,null,1643,31.5,34.75,null,null
 Israel,Asia,2,null,Israel,Israel,ISR,null,1644,31.5,34.75,null,null
@@ -1816,11 +1816,11 @@ Kuwait,Asia,11,null,Kuwait,Kuwait,KWT,null,1813,29.3375,47.6581,null,null
 Kuwait,Asia,12,null,Kuwait,Kuwait,KWT,null,1814,29.3375,47.6581,null,null
 Kuwait,Asia,13,null,Kuwait,Kuwait,KWT,null,1815,29.3375,47.6581,null,null
 Kuwait,Asia,14,2500,Kuwait,Kuwait,KWT,0.058540291,1816,29.3375,47.6581,2500,null
-Kuwait,Asia,15,null,Kuwait,Kuwait,KWT,null,1817,29.3375,47.6581,null,2500
-Kuwait,Asia,16,null,Kuwait,Kuwait,KWT,null,1818,29.3375,47.6581,null,null
-Kuwait,Asia,17,null,Kuwait,Kuwait,KWT,null,1819,29.3375,47.6581,null,null
-Kuwait,Asia,18,null,Kuwait,Kuwait,KWT,null,1820,29.3375,47.6581,null,null
-Kuwait,Asia,19,null,Kuwait,Kuwait,KWT,null,1821,29.3375,47.6581,null,null
+Kuwait,Asia,15,null,Kuwait,Kuwait,KWT,null,1817,29.3375,47.6581,2500,2500
+Kuwait,Asia,16,null,Kuwait,Kuwait,KWT,null,1818,29.3375,47.6581,2500,2500
+Kuwait,Asia,17,null,Kuwait,Kuwait,KWT,null,1819,29.3375,47.6581,2500,2500
+Kuwait,Asia,18,null,Kuwait,Kuwait,KWT,null,1820,29.3375,47.6581,2500,2500
+Kuwait,Asia,19,null,Kuwait,Kuwait,KWT,null,1821,29.3375,47.6581,2500,2500
 Kyrgyzstan,Asia,0,null,Kyrgyzstan,Kyrgyzstan,KGZ,null,1822,41,75,null,null
 Kyrgyzstan,Asia,1,null,Kyrgyzstan,Kyrgyzstan,KGZ,null,1823,41,75,null,null
 Kyrgyzstan,Asia,2,null,Kyrgyzstan,Kyrgyzstan,KGZ,null,1824,41,75,null,null
@@ -1877,10 +1877,10 @@ Latvia,Europe,12,null,Latvia,Latvia,LVA,null,1874,57,25,null,null
 Latvia,Europe,13,null,Latvia,Latvia,LVA,null,1875,57,25,null,null
 Latvia,Europe,14,null,Latvia,Latvia,LVA,null,1876,57,25,null,null
 Latvia,Europe,15,573,Latvia,Latvia,LVA,0.030378507,1877,57,25,573,null
-Latvia,Europe,16,null,Latvia,Latvia,LVA,null,1878,57,25,null,573
-Latvia,Europe,17,null,Latvia,Latvia,LVA,null,1879,57,25,null,null
-Latvia,Europe,18,null,Latvia,Latvia,LVA,null,1880,57,25,null,null
-Latvia,Europe,19,null,Latvia,Latvia,LVA,null,1881,57,25,null,null
+Latvia,Europe,16,null,Latvia,Latvia,LVA,null,1878,57,25,573,573
+Latvia,Europe,17,null,Latvia,Latvia,LVA,null,1879,57,25,573,573
+Latvia,Europe,18,null,Latvia,Latvia,LVA,null,1880,57,25,573,573
+Latvia,Europe,19,null,Latvia,Latvia,LVA,null,1881,57,25,573,573
 Lebanon,Asia,0,null,Lebanon,Lebanon,LBN,null,1882,33.8333,35.8333,null,null
 Lebanon,Asia,1,null,Lebanon,Lebanon,LBN,null,1883,33.8333,35.8333,null,null
 Lebanon,Asia,2,null,Lebanon,Lebanon,LBN,null,1884,33.8333,35.8333,null,null
@@ -1996,11 +1996,11 @@ Lithuania,Europe,11,null,Lithuania,Lithuania,LTU,null,1993,56,24,null,null
 Lithuania,Europe,12,null,Lithuania,Lithuania,LTU,null,1994,56,24,null,null
 Lithuania,Europe,13,null,Lithuania,Lithuania,LTU,null,1995,56,24,null,null
 Lithuania,Europe,14,2270,Lithuania,Lithuania,LTU,0.083385648,1996,56,24,2270,null
-Lithuania,Europe,15,null,Lithuania,Lithuania,LTU,null,1997,56,24,null,2270
-Lithuania,Europe,16,null,Lithuania,Lithuania,LTU,null,1998,56,24,null,null
-Lithuania,Europe,17,null,Lithuania,Lithuania,LTU,null,1999,56,24,null,null
-Lithuania,Europe,18,null,Lithuania,Lithuania,LTU,null,2000,56,24,null,null
-Lithuania,Europe,19,null,Lithuania,Lithuania,LTU,null,2001,56,24,null,null
+Lithuania,Europe,15,null,Lithuania,Lithuania,LTU,null,1997,56,24,2270,2270
+Lithuania,Europe,16,null,Lithuania,Lithuania,LTU,null,1998,56,24,2270,2270
+Lithuania,Europe,17,null,Lithuania,Lithuania,LTU,null,1999,56,24,2270,2270
+Lithuania,Europe,18,null,Lithuania,Lithuania,LTU,null,2000,56,24,2270,2270
+Lithuania,Europe,19,null,Lithuania,Lithuania,LTU,null,2001,56,24,2270,2270
 Luxembourg,Europe,0,null,Luxembourg,Luxembourg,LUX,null,2002,49.75,6.1667,null,null
 Luxembourg,Europe,1,null,Luxembourg,Luxembourg,LUX,null,2003,49.75,6.1667,null,null
 Luxembourg,Europe,2,null,Luxembourg,Luxembourg,LUX,null,2004,49.75,6.1667,null,null
@@ -2018,9 +2018,9 @@ Luxembourg,Europe,13,null,Luxembourg,Luxembourg,LUX,null,2015,49.75,6.1667,null,
 Luxembourg,Europe,14,null,Luxembourg,Luxembourg,LUX,null,2016,49.75,6.1667,null,null
 Luxembourg,Europe,15,null,Luxembourg,Luxembourg,LUX,null,2017,49.75,6.1667,null,null
 Luxembourg,Europe,16,1200,Luxembourg,Luxembourg,LUX,0.19170064,2018,49.75,6.1667,1200,null
-Luxembourg,Europe,17,null,Luxembourg,Luxembourg,LUX,null,2019,49.75,6.1667,null,1200
-Luxembourg,Europe,18,null,Luxembourg,Luxembourg,LUX,null,2020,49.75,6.1667,null,null
-Luxembourg,Europe,19,null,Luxembourg,Luxembourg,LUX,null,2021,49.75,6.1667,null,null
+Luxembourg,Europe,17,null,Luxembourg,Luxembourg,LUX,null,2019,49.75,6.1667,1200,1200
+Luxembourg,Europe,18,null,Luxembourg,Luxembourg,LUX,null,2020,49.75,6.1667,1200,1200
+Luxembourg,Europe,19,null,Luxembourg,Luxembourg,LUX,null,2021,49.75,6.1667,1200,1200
 Madagascar,Africa,0,null,Madagascar,Madagascar,MDG,null,2022,-20,47,null,null
 Madagascar,Africa,1,null,Madagascar,Madagascar,MDG,null,2023,-20,47,null,null
 Madagascar,Africa,2,null,Madagascar,Madagascar,MDG,null,2024,-20,47,null,null
@@ -2212,15 +2212,15 @@ Mexico,North America,7,null,Mexico,Mexico,MEX,null,2209,23,-102,null,null
 Mexico,North America,8,null,Mexico,Mexico,MEX,null,2210,23,-102,null,null
 Mexico,North America,9,null,Mexico,Mexico,MEX,null,2211,23,-102,null,null
 Mexico,North America,10,2924,Mexico,Mexico,MEX,0.002267849,2212,23,-102,2924,null
-Mexico,North America,11,null,Mexico,Mexico,MEX,null,2213,23,-102,null,2924
-Mexico,North America,12,null,Mexico,Mexico,MEX,null,2214,23,-102,null,null
-Mexico,North America,13,6824,Mexico,Mexico,MEX,0.005292682,2215,23,-102,6824,null
+Mexico,North America,11,null,Mexico,Mexico,MEX,null,2213,23,-102,2924,2924
+Mexico,North America,12,null,Mexico,Mexico,MEX,null,2214,23,-102,2924,2924
+Mexico,North America,13,6824,Mexico,Mexico,MEX,0.005292682,2215,23,-102,6824,2924
 Mexico,North America,14,9579,Mexico,Mexico,MEX,0.007429454,2216,23,-102,9579,6824
 Mexico,North America,15,18529,Mexico,Mexico,MEX,0.014371057,2217,23,-102,18529,9579
 Mexico,North America,16,24998,Mexico,Mexico,MEX,0.019388402,2218,23,-102,24998,18529
-Mexico,North America,17,null,Mexico,Mexico,MEX,null,2219,23,-102,null,24998
-Mexico,North America,18,null,Mexico,Mexico,MEX,null,2220,23,-102,null,null
-Mexico,North America,19,null,Mexico,Mexico,MEX,null,2221,23,-102,null,null
+Mexico,North America,17,null,Mexico,Mexico,MEX,null,2219,23,-102,24998,24998
+Mexico,North America,18,null,Mexico,Mexico,MEX,null,2220,23,-102,24998,24998
+Mexico,North America,19,null,Mexico,Mexico,MEX,null,2221,23,-102,24998,24998
 Moldova,Europe,0,null,Moldova,Moldova,MDA,null,2222,47,29,null,null
 Moldova,Europe,1,null,Moldova,Moldova,MDA,null,2223,47,29,null,null
 Moldova,Europe,2,null,Moldova,Moldova,MDA,null,2224,47,29,null,null
@@ -2560,7 +2560,7 @@ Oman,Asia,15,1717,Oman,Oman,OMN,0.033623009,2557,21,57,1717,null
 Oman,Asia,16,3363,Oman,Oman,OMN,0.065855667,2558,21,57,3363,1717
 Oman,Asia,17,5043,Oman,Oman,OMN,0.098754127,2559,21,57,5043,3363
 Oman,Asia,18,6516,Oman,Oman,OMN,0.127599027,2560,21,57,6516,5043
-Oman,Asia,19,null,Oman,Oman,OMN,null,2561,21,57,null,6516
+Oman,Asia,19,null,Oman,Oman,OMN,null,2561,21,57,6516,6516
 Pakistan,Asia,0,null,Pakistan,Pakistan,PAK,null,2562,30,70,null,null
 Pakistan,Asia,1,null,Pakistan,Pakistan,PAK,null,2563,30,70,null,null
 Pakistan,Asia,2,null,Pakistan,Pakistan,PAK,null,2564,30,70,null,null
@@ -2719,8 +2719,8 @@ Poland,Europe,14,2000,Poland,Poland,POL,0.00528449,2716,52,20,2000,null
 Poland,Europe,15,6300,Poland,Poland,POL,0.016646143,2717,52,20,6300,2000
 Poland,Europe,16,36300,Poland,Poland,POL,0.095913491,2718,52,20,36300,6300
 Poland,Europe,17,47600,Poland,Poland,POL,0.125770858,2719,52,20,47600,36300
-Poland,Europe,18,null,Poland,Poland,POL,null,2720,52,20,null,47600
-Poland,Europe,19,null,Poland,Poland,POL,null,2721,52,20,null,null
+Poland,Europe,18,null,Poland,Poland,POL,null,2720,52,20,47600,47600
+Poland,Europe,19,null,Poland,Poland,POL,null,2721,52,20,47600,47600
 Portugal,Europe,0,null,Portugal,Portugal,PRT,null,2722,39.5,-8,null,null
 Portugal,Europe,1,null,Portugal,Portugal,PRT,null,2723,39.5,-8,null,null
 Portugal,Europe,2,null,Portugal,Portugal,PRT,null,2724,39.5,-8,null,null
@@ -2737,10 +2737,10 @@ Portugal,Europe,12,null,Portugal,Portugal,PRT,null,2734,39.5,-8,null,null
 Portugal,Europe,13,null,Portugal,Portugal,PRT,null,2735,39.5,-8,null,null
 Portugal,Europe,14,4828,Portugal,Portugal,PRT,0.04734862,2736,39.5,-8,4828,null
 Portugal,Europe,15,16701,Portugal,Portugal,PRT,0.163788172,2737,39.5,-8,16701,4828
-Portugal,Europe,16,null,Portugal,Portugal,PRT,null,2738,39.5,-8,null,16701
-Portugal,Europe,17,null,Portugal,Portugal,PRT,null,2739,39.5,-8,null,null
-Portugal,Europe,18,null,Portugal,Portugal,PRT,null,2740,39.5,-8,null,null
-Portugal,Europe,19,null,Portugal,Portugal,PRT,null,2741,39.5,-8,null,null
+Portugal,Europe,16,null,Portugal,Portugal,PRT,null,2738,39.5,-8,16701,16701
+Portugal,Europe,17,null,Portugal,Portugal,PRT,null,2739,39.5,-8,16701,16701
+Portugal,Europe,18,null,Portugal,Portugal,PRT,null,2740,39.5,-8,16701,16701
+Portugal,Europe,19,null,Portugal,Portugal,PRT,null,2741,39.5,-8,16701,16701
 Qatar,Asia,0,null,Qatar,Qatar,QAT,null,2742,25.5,51.25,null,null
 Qatar,Asia,1,null,Qatar,Qatar,QAT,null,2743,25.5,51.25,null,null
 Qatar,Asia,2,null,Qatar,Qatar,QAT,null,2744,25.5,51.25,null,null
@@ -2777,30 +2777,30 @@ Romania,Europe,12,null,Romania,Romania,ROU,null,2774,46,25,null,null
 Romania,Europe,13,null,Romania,Romania,ROU,null,2775,46,25,null,null
 Romania,Europe,14,2066,Romania,Romania,ROU,0.01073934,2776,46,25,2066,null
 Romania,Europe,15,2778,Romania,Romania,ROU,0.014440409,2777,46,25,2778,2066
-Romania,Europe,16,null,Romania,Romania,ROU,null,2778,46,25,null,2778
-Romania,Europe,17,10829,Romania,Romania,ROU,0.056290566,2779,46,25,10829,null
+Romania,Europe,16,null,Romania,Romania,ROU,null,2778,46,25,2778,2778
+Romania,Europe,17,10829,Romania,Romania,ROU,0.056290566,2779,46,25,10829,2778
 Romania,Europe,18,11656,Romania,Romania,ROU,0.06058942,2780,46,25,11656,10829
 Romania,Europe,19,13242,Romania,Romania,ROU,0.068833657,2781,46,25,13242,11656
 Russia,Europe,0,null,Russia,Russia,RUS,null,2782,60,100,null,null
 Russia,Europe,1,28500,Russia,Russia,RUS,0.019529315,2783,60,100,28500,null
-Russia,Europe,2,null,Russia,Russia,RUS,null,2784,60,100,null,28500
-Russia,Europe,3,null,Russia,Russia,RUS,null,2785,60,100,null,null
-Russia,Europe,4,null,Russia,Russia,RUS,null,2786,60,100,null,null
-Russia,Europe,5,null,Russia,Russia,RUS,null,2787,60,100,null,null
-Russia,Europe,6,null,Russia,Russia,RUS,null,2788,60,100,null,null
-Russia,Europe,7,null,Russia,Russia,RUS,null,2789,60,100,null,null
-Russia,Europe,8,52000,Russia,Russia,RUS,0.035632434,2790,60,100,52000,null
-Russia,Europe,9,null,Russia,Russia,RUS,null,2791,60,100,null,52000
-Russia,Europe,10,null,Russia,Russia,RUS,null,2792,60,100,null,null
-Russia,Europe,11,null,Russia,Russia,RUS,null,2793,60,100,null,null
-Russia,Europe,12,null,Russia,Russia,RUS,null,2794,60,100,null,null
-Russia,Europe,13,null,Russia,Russia,RUS,null,2795,60,100,null,null
-Russia,Europe,14,null,Russia,Russia,RUS,null,2796,60,100,null,null
-Russia,Europe,15,null,Russia,Russia,RUS,null,2797,60,100,null,null
-Russia,Europe,16,null,Russia,Russia,RUS,null,2798,60,100,null,null
-Russia,Europe,17,null,Russia,Russia,RUS,null,2799,60,100,null,null
-Russia,Europe,18,null,Russia,Russia,RUS,null,2800,60,100,null,null
-Russia,Europe,19,null,Russia,Russia,RUS,null,2801,60,100,null,null
+Russia,Europe,2,null,Russia,Russia,RUS,null,2784,60,100,28500,28500
+Russia,Europe,3,null,Russia,Russia,RUS,null,2785,60,100,28500,28500
+Russia,Europe,4,null,Russia,Russia,RUS,null,2786,60,100,28500,28500
+Russia,Europe,5,null,Russia,Russia,RUS,null,2787,60,100,28500,28500
+Russia,Europe,6,null,Russia,Russia,RUS,null,2788,60,100,28500,28500
+Russia,Europe,7,null,Russia,Russia,RUS,null,2789,60,100,28500,28500
+Russia,Europe,8,52000,Russia,Russia,RUS,0.035632434,2790,60,100,52000,28500
+Russia,Europe,9,null,Russia,Russia,RUS,null,2791,60,100,52000,52000
+Russia,Europe,10,null,Russia,Russia,RUS,null,2792,60,100,52000,52000
+Russia,Europe,11,null,Russia,Russia,RUS,null,2793,60,100,52000,52000
+Russia,Europe,12,null,Russia,Russia,RUS,null,2794,60,100,52000,52000
+Russia,Europe,13,null,Russia,Russia,RUS,null,2795,60,100,52000,52000
+Russia,Europe,14,null,Russia,Russia,RUS,null,2796,60,100,52000,52000
+Russia,Europe,15,null,Russia,Russia,RUS,null,2797,60,100,52000,52000
+Russia,Europe,16,null,Russia,Russia,RUS,null,2798,60,100,52000,52000
+Russia,Europe,17,null,Russia,Russia,RUS,null,2799,60,100,52000,52000
+Russia,Europe,18,null,Russia,Russia,RUS,null,2800,60,100,52000,52000
+Russia,Europe,19,null,Russia,Russia,RUS,null,2801,60,100,52000,52000
 Rwanda,Africa,0,null,Rwanda,Rwanda,RWA,null,2802,-2,30,null,null
 Rwanda,Africa,1,null,Rwanda,Rwanda,RWA,null,2803,-2,30,null,null
 Rwanda,Africa,2,null,Rwanda,Rwanda,RWA,null,2804,-2,30,null,null
@@ -3588,19 +3588,19 @@ United Kingdom,Europe,3,null,United Kingdom,United Kingdom,GBR,null,3585,54,-2,n
 United Kingdom,Europe,4,null,United Kingdom,United Kingdom,GBR,null,3586,54,-2,null,null
 United Kingdom,Europe,5,null,United Kingdom,United Kingdom,GBR,null,3587,54,-2,null,null
 United Kingdom,Europe,6,641116,United Kingdom,United Kingdom,GBR,0.944400852,3588,54,-2,641116,null
-United Kingdom,Europe,7,null,United Kingdom,United Kingdom,GBR,null,3589,54,-2,null,641116
-United Kingdom,Europe,8,null,United Kingdom,United Kingdom,GBR,null,3590,54,-2,null,null
-United Kingdom,Europe,9,null,United Kingdom,United Kingdom,GBR,null,3591,54,-2,null,null
-United Kingdom,Europe,10,null,United Kingdom,United Kingdom,GBR,null,3592,54,-2,null,null
-United Kingdom,Europe,11,null,United Kingdom,United Kingdom,GBR,null,3593,54,-2,null,null
-United Kingdom,Europe,12,null,United Kingdom,United Kingdom,GBR,null,3594,54,-2,null,null
-United Kingdom,Europe,13,944539,United Kingdom,United Kingdom,GBR,1.391360434,3595,54,-2,944539,null
-United Kingdom,Europe,14,null,United Kingdom,United Kingdom,GBR,null,3596,54,-2,null,944539
-United Kingdom,Europe,15,null,United Kingdom,United Kingdom,GBR,null,3597,54,-2,null,null
-United Kingdom,Europe,16,null,United Kingdom,United Kingdom,GBR,null,3598,54,-2,null,null
-United Kingdom,Europe,17,null,United Kingdom,United Kingdom,GBR,null,3599,54,-2,null,null
-United Kingdom,Europe,18,null,United Kingdom,United Kingdom,GBR,null,3600,54,-2,null,null
-United Kingdom,Europe,19,null,United Kingdom,United Kingdom,GBR,null,3601,54,-2,null,null
+United Kingdom,Europe,7,null,United Kingdom,United Kingdom,GBR,null,3589,54,-2,641116,641116
+United Kingdom,Europe,8,null,United Kingdom,United Kingdom,GBR,null,3590,54,-2,641116,641116
+United Kingdom,Europe,9,null,United Kingdom,United Kingdom,GBR,null,3591,54,-2,641116,641116
+United Kingdom,Europe,10,null,United Kingdom,United Kingdom,GBR,null,3592,54,-2,641116,641116
+United Kingdom,Europe,11,null,United Kingdom,United Kingdom,GBR,null,3593,54,-2,641116,641116
+United Kingdom,Europe,12,null,United Kingdom,United Kingdom,GBR,null,3594,54,-2,641116,641116
+United Kingdom,Europe,13,944539,United Kingdom,United Kingdom,GBR,1.391360434,3595,54,-2,944539,641116
+United Kingdom,Europe,14,null,United Kingdom,United Kingdom,GBR,null,3596,54,-2,944539,944539
+United Kingdom,Europe,15,null,United Kingdom,United Kingdom,GBR,null,3597,54,-2,944539,944539
+United Kingdom,Europe,16,null,United Kingdom,United Kingdom,GBR,null,3598,54,-2,944539,944539
+United Kingdom,Europe,17,null,United Kingdom,United Kingdom,GBR,null,3599,54,-2,944539,944539
+United Kingdom,Europe,18,null,United Kingdom,United Kingdom,GBR,null,3600,54,-2,944539,944539
+United Kingdom,Europe,19,null,United Kingdom,United Kingdom,GBR,null,3601,54,-2,944539,944539
 United States,North America,0,null,United States,United States,USA,null,3602,38,-97,null,null
 United States,North America,1,null,United States,United States,USA,null,3603,38,-97,null,null
 United States,North America,2,null,United States,United States,USA,null,3604,38,-97,null,null
@@ -3609,18 +3609,18 @@ United States,North America,4,null,United States,United States,USA,null,3606,38,
 United States,North America,5,null,United States,United States,USA,null,3607,38,-97,null,null
 United States,North America,6,556208,United States,United States,USA,0.168037327,3608,38,-97,556208,null
 United States,North America,7,614117,United States,United States,USA,0.185532353,3609,38,-97,614117,556208
-United States,North America,8,null,United States,United States,USA,null,3610,38,-97,null,614117
-United States,North America,9,1008025,United States,United States,USA,0.30453684,3611,38,-97,1008025,null
-United States,North America,10,null,United States,United States,USA,null,3612,38,-97,null,1008025
-United States,North America,11,null,United States,United States,USA,null,3613,38,-97,null,null
-United States,North America,12,1944585,United States,United States,USA,0.587483217,3614,38,-97,1944585,null
-United States,North America,13,null,United States,United States,USA,null,3615,38,-97,null,1944585
-United States,North America,14,2127143,United States,United States,USA,0.642636251,3616,38,-97,2127143,null
-United States,North America,15,null,United States,United States,USA,null,3617,38,-97,null,2127143
-United States,North America,16,2794588,United States,United States,USA,0.844279653,3618,38,-97,2794588,null
-United States,North America,17,null,United States,United States,USA,null,3619,38,-97,null,2794588
-United States,North America,18,null,United States,United States,USA,null,3620,38,-97,null,null
-United States,North America,19,4225756,United States,United States,USA,1.276653235,3621,38,-97,4225756,null
+United States,North America,8,null,United States,United States,USA,null,3610,38,-97,614117,614117
+United States,North America,9,1008025,United States,United States,USA,0.30453684,3611,38,-97,1008025,614117
+United States,North America,10,null,United States,United States,USA,null,3612,38,-97,1008025,1008025
+United States,North America,11,null,United States,United States,USA,null,3613,38,-97,1008025,1008025
+United States,North America,12,1944585,United States,United States,USA,0.587483217,3614,38,-97,1944585,1008025
+United States,North America,13,null,United States,United States,USA,null,3615,38,-97,1944585,1944585
+United States,North America,14,2127143,United States,United States,USA,0.642636251,3616,38,-97,2127143,1944585
+United States,North America,15,null,United States,United States,USA,null,3617,38,-97,2127143,2127143
+United States,North America,16,2794588,United States,United States,USA,0.844279653,3618,38,-97,2794588,2127143
+United States,North America,17,null,United States,United States,USA,null,3619,38,-97,2794588,2794588
+United States,North America,18,null,United States,United States,USA,null,3620,38,-97,2794588,2794588
+United States,North America,19,4225756,United States,United States,USA,1.276653235,3621,38,-97,4225756,2794588
 Uruguay,South America,0,null,Uruguay,Uruguay,URY,null,3622,-33,-56,null,null
 Uruguay,South America,1,null,Uruguay,Uruguay,URY,null,3623,-33,-56,null,null
 Uruguay,South America,2,null,Uruguay,Uruguay,URY,null,3624,-33,-56,null,null
@@ -3741,26 +3741,6 @@ Vietnam,Asia,16,null,Vietnam,Vietnam,VNM,null,3738,null,106,null,null
 Vietnam,Asia,17,null,Vietnam,Vietnam,VNM,null,3739,null,106,null,null
 Vietnam,Asia,18,null,Vietnam,Vietnam,VNM,null,3740,null,106,null,null
 Vietnam,Asia,19,null,Vietnam,Vietnam,VNM,null,3741,null,106,null,null
-World,,0,297,World,World,OWID_WRL,3.81023E-06,3742,null,#N/A,297,297
-World,,1,1529663,World,World,OWID_WRL,0.01962415,3743,null,#N/A,1529663,297
-World,,2,1532183,World,World,OWID_WRL,0.019656479,3744,null,#N/A,1532183,1529663
-World,,3,1535701,World,World,OWID_WRL,0.019701612,3745,null,#N/A,1535701,1532183
-World,,4,1539674,World,World,OWID_WRL,0.019752582,3746,null,#N/A,1539674,1535701
-World,,5,1540394,World,World,OWID_WRL,0.019761819,3747,null,#N/A,1540394,1539674
-World,,6,2748016,World,World,OWID_WRL,0.035254483,3748,null,#N/A,2748016,1540394
-World,,7,2835999,World,World,OWID_WRL,0.036383223,3749,null,#N/A,2835999,2748016
-World,,8,2907520,World,World,OWID_WRL,0.037300771,3750,null,#N/A,2907520,2835999
-World,,9,3409810,World,World,OWID_WRL,0.043744683,3751,null,#N/A,3409810,2907520
-World,,10,3508774,World,World,OWID_WRL,0.045014299,3752,null,#N/A,3508774,3409810
-World,,11,3553020,World,World,OWID_WRL,0.045581934,3753,null,#N/A,3553020,3508774
-World,,12,4528757,World,World,OWID_WRL,0.05809973,3754,null,#N/A,4528757,3553020
-World,,13,4966355,World,World,OWID_WRL,0.063713704,3755,null,#N/A,4966355,4528757
-World,,14,5312317,World,World,OWID_WRL,0.068152074,3756,null,#N/A,5312317,4966355
-World,,15,5563173,World,World,OWID_WRL,0.071370323,3757,null,#N/A,5563173,5312317
-World,,16,6525386,World,World,OWID_WRL,0.083714618,3758,null,#N/A,6525386,5563173
-World,,17,9805151,World,World,OWID_WRL,0.125790945,3759,null,#N/A,9805151,6525386
-World,,18,9916184,World,World,OWID_WRL,0.127215395,3760,null,#N/A,9916184,9805151
-World,,19,11472267,World,World,OWID_WRL,0.147178489,3761,null,#N/A,11472267,9916184
 Yemen,Asia,0,null,Yemen,Yemen,YEM,null,3762,null,48,null,null
 Yemen,Asia,1,null,Yemen,Yemen,YEM,null,3763,null,48,null,null
 Yemen,Asia,2,null,Yemen,Yemen,YEM,null,3764,null,48,null,null
