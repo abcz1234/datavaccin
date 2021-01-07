@@ -222,12 +222,12 @@ Europe,Latvia,12,0,0,57,25
 Europe,Latvia,13,0,0,57,25
 Europe,Latvia,14,0,0,57,25
 Europe,Latvia,15,573,0,57,25
-Europe,Latvia,16,"851,3333333",573,57,25
-Europe,Latvia,17,"1129,666667","851,3333333",57,25
-Europe,Latvia,18,1408,"1129,666667",57,25
-Europe,Latvia,19,"1686,333333",1408,57,25
-Europe,Latvia,20,"1964,666667","1686,333333",57,25
-Europe,Latvia,21,2243,"1964,666667",57,25
+Europe,Latvia,16,851,573,57,25
+Europe,Latvia,17,1130,851,57,25
+Europe,Latvia,18,1408,1130,57,25
+Europe,Latvia,19,1686,1408,57,25
+Europe,Latvia,20,1965,1686,57,25
+Europe,Latvia,21,2243,1965,57,25
 Europe,Latvia,22,2923,2243,57,25
 Europe,Ireland,0,0,0,53,-8
 Europe,Ireland,1,0,0,53,-8
@@ -339,10 +339,10 @@ Europe,Finland,14,0,0,64,26
 Europe,Finland,15,0,0,64,26
 Europe,Finland,16,0,0,64,26
 Europe,Finland,17,1767,0,64,26
-Europe,Finland,18,"2226,25",1767,64,26
-Europe,Finland,19,"2685,5","2226,25",64,26
-Europe,Finland,20,"3144,75","2685,5",64,26
-Europe,Finland,21,3604,"3144,75",64,26
+Europe,Finland,18,2226,1767,64,26
+Europe,Finland,19,2686,2226,64,26
+Europe,Finland,20,3145,2686,64,26
+Europe,Finland,21,3604,3145,64,26
 Europe,Finland,22,5445,3604,64,26
 Europe,Bulgaria,0,0,0,43,25
 Europe,Bulgaria,1,0,0,43,25
@@ -361,8 +361,8 @@ Europe,Bulgaria,13,0,0,43,25
 Europe,Bulgaria,14,0,0,43,25
 Europe,Bulgaria,15,1719,0,43,25
 Europe,Bulgaria,16,4608,1719,43,25
-Europe,Bulgaria,17,"4673,5",4608,43,25
-Europe,Bulgaria,18,4739,"4673,5",43,25
+Europe,Bulgaria,17,4674,4608,43,25
+Europe,Bulgaria,18,4739,4674,43,25
 Europe,Bulgaria,19,4739,4739,43,25
 Europe,Bulgaria,20,4739,4739,43,25
 Europe,Bulgaria,21,4739,4739,43,25
@@ -429,8 +429,8 @@ South America,Argentina,12,0,0,-34,-64
 South America,Argentina,13,0,0,-34,-64
 South America,Argentina,14,0,0,-34,-64
 South America,Argentina,15,700,0,-34,-64
-South America,Argentina,16,"16356,5",700,-34,-64
-South America,Argentina,17,32013,"16356,5",-34,-64
+South America,Argentina,16,16357,700,-34,-64
+South America,Argentina,17,32013,16357,-34,-64
 South America,Argentina,18,32013,32013,-34,-64
 South America,Argentina,19,32013,32013,-34,-64
 South America,Argentina,20,32013,32013,-34,-64
@@ -453,12 +453,12 @@ Europe,Croatia,13,0,0,451667,15.5
 Europe,Croatia,14,0,0,451667,15.5
 Europe,Croatia,15,0,0,451667,15.5
 Europe,Croatia,16,7864,0,451667,15.5
-Europe,Croatia,17,"8969,25",7864,451667,15.5
-Europe,Croatia,18,"10074,5","8969,25",451667,15.5
-Europe,Croatia,19,"11179,75","10074,5",451667,15.5
-Europe,Croatia,20,12285,"11179,75",451667,15.5
-Europe,Croatia,21,"13041,5",12285,451667,15.5
-Europe,Croatia,22,13798,"13041,5",451667,15.5
+Europe,Croatia,17,8969,7864,451667,15.5
+Europe,Croatia,18,10075,8969,451667,15.5
+Europe,Croatia,19,11180,10075,451667,15.5
+Europe,Croatia,20,12285,11180,451667,15.5
+Europe,Croatia,21,13042,12285,451667,15.5
+Europe,Croatia,22,13798,13042,451667,15.5
 Europe,Hungary,0,0,0,47,20
 Europe,Hungary,1,0,0,47,20
 Europe,Hungary,2,0,0,47,20
@@ -477,10 +477,10 @@ Europe,Hungary,14,1094,0,47,20
 Europe,Hungary,15,2461,1094,47,20
 Europe,Hungary,16,3789,2461,47,20
 Europe,Hungary,17,5110,3789,47,20
-Europe,Hungary,18,"6832,5",5110,47,20
-Europe,Hungary,19,8555,"6832,5",47,20
-Europe,Hungary,20,"10277,5",8555,47,20
-Europe,Hungary,21,12000,"10277,5",47,20
+Europe,Hungary,18,6833,5110,47,20
+Europe,Hungary,19,8555,6833,47,20
+Europe,Hungary,20,10278,8555,47,20
+Europe,Hungary,21,12000,10278,47,20
 Europe,Hungary,22,15000,12000,47,20
 Europe,Greece,0,0,0,39,22
 Europe,Greece,1,0,0,39,22
@@ -519,14 +519,14 @@ South America,Chile,10,420,0,-30,-71
 South America,Chile,11,5191,420,-30,-71
 South America,Chile,12,8336,5191,-30,-71
 South America,Chile,13,8647,8336,-30,-71
-South America,Chile,14,"8697,5",8647,-30,-71
-South America,Chile,15,8748,"8697,5",-30,-71
-South America,Chile,16,"8798,5",8748,-30,-71
-South America,Chile,17,8849,"8798,5",-30,-71
-South America,Chile,18,"8899,5",8849,-30,-71
-South America,Chile,19,8950,"8899,5",-30,-71
-South America,Chile,20,"9000,5",8950,-30,-71
-South America,Chile,21,9051,"9000,5",-30,-71
+South America,Chile,14,8698,8647,-30,-71
+South America,Chile,15,8748,8698,-30,-71
+South America,Chile,16,8799,8748,-30,-71
+South America,Chile,17,8849,8799,-30,-71
+South America,Chile,18,8900,8849,-30,-71
+South America,Chile,19,8950,8900,-30,-71
+South America,Chile,20,9001,8950,-30,-71
+South America,Chile,21,9051,9001,-30,-71
 South America,Chile,22,9254,9051,-30,-71
 Asia,Oman,0,0,0,21,57
 Asia,Oman,1,0,0,21,57
@@ -568,10 +568,10 @@ Europe,Portugal,13,0,0,39.5,-8
 Europe,Portugal,14,4828,0,39.5,-8
 Europe,Portugal,15,16701,4828,39.5,-8
 Europe,Portugal,16,26850,16701,39.5,-8
-Europe,Portugal,17,"28137,5",26850,39.5,-8
-Europe,Portugal,18,29425,"28137,5",39.5,-8
-Europe,Portugal,19,"30712,5",29425,39.5,-8
-Europe,Portugal,20,32000,"30712,5",39.5,-8
+Europe,Portugal,17,28138,26850,39.5,-8
+Europe,Portugal,18,29425,28138,39.5,-8
+Europe,Portugal,19,30713,29425,39.5,-8
+Europe,Portugal,20,32000,30713,39.5,-8
 Europe,Portugal,21,32000,32000,39.5,-8
 Europe,Portugal,22,32000,32000,39.5,-8
 North America,Mexico,0,0,0,23,-102
@@ -591,8 +591,8 @@ North America,Mexico,13,6824,5524,23,-102
 North America,Mexico,14,9579,6824,23,-102
 North America,Mexico,15,18529,9579,23,-102
 North America,Mexico,16,24998,18529,23,-102
-North America,Mexico,17,"18748,5",24998,23,-102
-North America,Mexico,18,24998,"18748,5",23,-102
+North America,Mexico,17,18749,24998,23,-102
+North America,Mexico,18,24998,18749,23,-102
 North America,Mexico,19,24998,24998,23,-102
 North America,Mexico,20,24998,24998,23,-102
 North America,Mexico,21,43960,24998,23,-102
@@ -613,8 +613,8 @@ Europe,Romania,12,0,0,46,25
 Europe,Romania,13,0,0,46,25
 Europe,Romania,14,2066,0,46,25
 Europe,Romania,15,2778,2066,46,25
-Europe,Romania,16,"6803,5",2778,46,25
-Europe,Romania,17,10829,"6803,5",46,25
+Europe,Romania,16,6804,2778,46,25
+Europe,Romania,17,10829,6804,46,25
 Europe,Romania,18,11656,10829,46,25
 Europe,Romania,19,13242,11656,46,25
 Europe,Romania,20,13596,13242,46,25
@@ -684,8 +684,8 @@ Europe,Poland,14,2000,0,52,20
 Europe,Poland,15,6300,2000,52,20
 Europe,Poland,16,36300,6300,52,20
 Europe,Poland,17,47600,36300,52,20
-Europe,Poland,18,"31733,33333",47600,52,20
-Europe,Poland,19,47600,"31733,33333",52,20
+Europe,Poland,18,31733,47600,52,20
+Europe,Poland,19,47600,31733,52,20
 Europe,Poland,20,50391,47600,52,20
 Europe,Poland,21,50833,50391,52,20
 Europe,Poland,22,92220,50833,52,20
@@ -760,13 +760,13 @@ Asia,United Arab Emirates,21,0,0,24,54
 Asia,United Arab Emirates,22,826301,0,24,54
 Europe,Russia,0,0,0,60,100
 Europe,Russia,1,28500,0,60,100
-Europe,Russia,2,"31857,14286",28500,60,100
-Europe,Russia,3,"35214,28571","31857,14286",60,100
-Europe,Russia,4,"38571,42857","35214,28571",60,100
-Europe,Russia,5,"41928,57143","38571,42857",60,100
-Europe,Russia,6,"45285,71429","41928,57143",60,100
-Europe,Russia,7,"48642,85714","45285,71429",60,100
-Europe,Russia,8,52000,"48642,85714",60,100
+Europe,Russia,2,31857,28500,60,100
+Europe,Russia,3,35214,31857,60,100
+Europe,Russia,4,38571,35214,60,100
+Europe,Russia,5,41929,38571,60,100
+Europe,Russia,6,45286,41929,60,100
+Europe,Russia,7,48643,45286,60,100
+Europe,Russia,8,52000,48643,60,100
 Europe,Russia,9,52000,52000,60,100
 Europe,Russia,10,52000,52000,60,100
 Europe,Russia,11,52000,52000,60,100
@@ -834,13 +834,13 @@ Europe,United Kingdom,3,0,0,54,-2
 Europe,United Kingdom,4,0,0,54,-2
 Europe,United Kingdom,5,0,0,54,-2
 Europe,United Kingdom,6,641116,0,54,-2
-Europe,United Kingdom,7,"684462,1429",641116,54,-2
-Europe,United Kingdom,8,"727808,2857","684462,1429",54,-2
-Europe,United Kingdom,9,"771154,4286","727808,2857",54,-2
-Europe,United Kingdom,10,"814500,5714","771154,4286",54,-2
-Europe,United Kingdom,11,"857846,7143","814500,5714",54,-2
-Europe,United Kingdom,12,"901192,8571","857846,7143",54,-2
-Europe,United Kingdom,13,944539,"901192,8571",54,-2
+Europe,United Kingdom,7,684462,641116,54,-2
+Europe,United Kingdom,8,727808,684462,54,-2
+Europe,United Kingdom,9,771154,727808,54,-2
+Europe,United Kingdom,10,814501,771154,54,-2
+Europe,United Kingdom,11,857847,814501,54,-2
+Europe,United Kingdom,12,901193,857847,54,-2
+Europe,United Kingdom,13,944539,901193,54,-2
 Europe,United Kingdom,14,944539,944539,54,-2
 Europe,United Kingdom,15,944539,944539,54,-2
 Europe,United Kingdom,16,944539,944539,54,-2
@@ -906,13 +906,13 @@ North America,United States,6,556208,0,38,-97
 North America,United States,7,614117,556208,38,-97
 North America,United States,8,811071,614117,38,-97
 North America,United States,9,1008025,811071,38,-97
-North America,United States,10,"1320211,667",1008025,38,-97
-North America,United States,11,"1632398,333","1320211,667",38,-97
-North America,United States,12,1944585,"1632398,333",38,-97
+North America,United States,10,1320212,1008025,38,-97
+North America,United States,11,1632398,1320212,38,-97
+North America,United States,12,1944585,1632398,38,-97
 North America,United States,13,2035864,1944585,38,-97
 North America,United States,14,2127143,2035864,38,-97
-North America,United States,15,"2460865,5",2127143,38,-97
-North America,United States,16,2794588,"2460865,5",38,-97
+North America,United States,15,2460866,2127143,38,-97
+North America,United States,16,2794588,2460866,38,-97
 North America,United States,17,3271644,2794588,38,-97
 North America,United States,18,3748700,3271644,38,-97
 North America,United States,19,4225756,3748700,38,-97
