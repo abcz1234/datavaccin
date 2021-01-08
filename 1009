@@ -1,0 +1,1026 @@
+group,name,year,value,lastValue,lat,lon
+Europe,Belgium,0,0,0,508333,4
+Europe,Belgium,1,0,0,508333,4
+Europe,Belgium,2,0,0,508333,4
+Europe,Belgium,3,0,0,508333,4
+Europe,Belgium,4,0,0,508333,4
+Europe,Belgium,5,0,0,508333,4
+Europe,Belgium,6,0,0,508333,4
+Europe,Belgium,7,0,0,508333,4
+Europe,Belgium,8,0,0,508333,4
+Europe,Belgium,9,0,0,508333,4
+Europe,Belgium,10,0,0,508333,4
+Europe,Belgium,11,0,0,508333,4
+Europe,Belgium,12,0,0,508333,4
+Europe,Belgium,13,0,0,508333,4
+Europe,Belgium,14,0,0,508333,4
+Europe,Belgium,15,0,0,508333,4
+Europe,Belgium,16,0,0,508333,4
+Europe,Belgium,17,0,0,508333,4
+Europe,Belgium,18,0,0,508333,4
+Europe,Belgium,19,0.006,0,508333,4
+Europe,Belgium,20,0.006,0.006,508333,4
+Europe,Belgium,21,0.006,0.006,508333,4
+Europe,Belgium,22,0.006,0.006,508333,4
+Europe,Belgium,23,0.006,0.006,508333,4
+Europe,Belgium,24,0.006,0.006,508333,4
+Europe,Luxembourg,0,0,0,49.75,61667
+Europe,Luxembourg,1,0,0,49.75,61667
+Europe,Luxembourg,2,0,0,49.75,61667
+Europe,Luxembourg,3,0,0,49.75,61667
+Europe,Luxembourg,4,0,0,49.75,61667
+Europe,Luxembourg,5,0,0,49.75,61667
+Europe,Luxembourg,6,0,0,49.75,61667
+Europe,Luxembourg,7,0,0,49.75,61667
+Europe,Luxembourg,8,0,0,49.75,61667
+Europe,Luxembourg,9,0,0,49.75,61667
+Europe,Luxembourg,10,0,0,49.75,61667
+Europe,Luxembourg,11,0,0,49.75,61667
+Europe,Luxembourg,12,0,0,49.75,61667
+Europe,Luxembourg,13,0,0,49.75,61667
+Europe,Luxembourg,14,0,0,49.75,61667
+Europe,Luxembourg,15,0,0,49.75,61667
+Europe,Luxembourg,16,0.192,0,49.75,61667
+Europe,Luxembourg,17,0.192,0.192,49.75,61667
+Europe,Luxembourg,18,0.192,0.192,49.75,61667
+Europe,Luxembourg,19,0.192,0.192,49.75,61667
+Europe,Luxembourg,20,0.192,0.192,49.75,61667
+Europe,Luxembourg,21,0.192,0.192,49.75,61667
+Europe,Luxembourg,22,0.192,0.192,49.75,61667
+Europe,Luxembourg,23,0.192,0.192,49.75,61667
+Europe,Luxembourg,24,0.192,0.192,49.75,61667
+Europe,Malta,0,0,0,358333,145833
+Europe,Malta,1,0,0,358333,145833
+Europe,Malta,2,0,0,358333,145833
+Europe,Malta,3,0,0,358333,145833
+Europe,Malta,4,0,0,358333,145833
+Europe,Malta,5,0,0,358333,145833
+Europe,Malta,6,0,0,358333,145833
+Europe,Malta,7,0,0,358333,145833
+Europe,Malta,8,0,0,358333,145833
+Europe,Malta,9,0,0,358333,145833
+Europe,Malta,10,0,0,358333,145833
+Europe,Malta,11,0,0,358333,145833
+Europe,Malta,12,0,0,358333,145833
+Europe,Malta,13,0,0,358333,145833
+Europe,Malta,14,0,0,358333,145833
+Europe,Malta,15,0,0,358333,145833
+Europe,Malta,16,0,0,358333,145833
+Europe,Malta,17,0,0,358333,145833
+Europe,Malta,18,0,0,358333,145833
+Europe,Malta,19,0,0,358333,145833
+Europe,Malta,20,0.317,0,358333,145833
+Europe,Malta,21,0.317,0.317,358333,145833
+Europe,Malta,22,0.317,0.317,358333,145833
+Europe,Malta,23,0.317,0.317,358333,145833
+Europe,Malta,24,0.317,0.317,358333,145833
+Europe,Norway,0,0,0,62,10
+Europe,Norway,1,0,0,62,10
+Europe,Norway,2,0,0,62,10
+Europe,Norway,3,0,0,62,10
+Europe,Norway,4,0,0,62,10
+Europe,Norway,5,0,0,62,10
+Europe,Norway,6,0,0,62,10
+Europe,Norway,7,0,0,62,10
+Europe,Norway,8,0,0,62,10
+Europe,Norway,9,0,0,62,10
+Europe,Norway,10,0,0,62,10
+Europe,Norway,11,0,0,62,10
+Europe,Norway,12,0,0,62,10
+Europe,Norway,13,0,0,62,10
+Europe,Norway,14,0,0,62,10
+Europe,Norway,15,0,0,62,10
+Europe,Norway,16,0,0,62,10
+Europe,Norway,17,0,0,62,10
+Europe,Norway,18,0,0,62,10
+Europe,Norway,19,0,0,62,10
+Europe,Norway,20,0.041,0,62,10
+Europe,Norway,21,0.041,0.041,62,10
+Europe,Norway,22,0.041,0.041,62,10
+Europe,Norway,23,0.041,0.041,62,10
+Europe,Norway,24,0.041,0.041,62,10
+Europe,Lithuania,0,0,0,56,24
+Europe,Lithuania,1,0,0,56,24
+Europe,Lithuania,2,0,0,56,24
+Europe,Lithuania,3,0,0,56,24
+Europe,Lithuania,4,0,0,56,24
+Europe,Lithuania,5,0,0,56,24
+Europe,Lithuania,6,0,0,56,24
+Europe,Lithuania,7,0,0,56,24
+Europe,Lithuania,8,0,0,56,24
+Europe,Lithuania,9,0,0,56,24
+Europe,Lithuania,10,0,0,56,24
+Europe,Lithuania,11,0,0,56,24
+Europe,Lithuania,12,0,0,56,24
+Europe,Lithuania,13,0,0,56,24
+Europe,Lithuania,14,0.083,0,56,24
+Europe,Lithuania,15,0.083,0.083,56,24
+Europe,Lithuania,16,0.083,0.083,56,24
+Europe,Lithuania,17,0.083,0.083,56,24
+Europe,Lithuania,18,0.083,0.083,56,24
+Europe,Lithuania,19,0.083,0.083,56,24
+Europe,Lithuania,20,0.083,0.083,56,24
+Europe,Lithuania,21,0.083,0.083,56,24
+Europe,Lithuania,22,0.083,0.083,56,24
+Europe,Lithuania,23,0.083,0.083,56,24
+Europe,Lithuania,24,0.083,0.083,56,24
+Middle East,Kuwait,0,0,0,293375,476581
+Middle East,Kuwait,1,0,0,293375,476581
+Middle East,Kuwait,2,0,0,293375,476581
+Middle East,Kuwait,3,0,0,293375,476581
+Middle East,Kuwait,4,0,0,293375,476581
+Middle East,Kuwait,5,0,0,293375,476581
+Middle East,Kuwait,6,0,0,293375,476581
+Middle East,Kuwait,7,0,0,293375,476581
+Middle East,Kuwait,8,0,0,293375,476581
+Middle East,Kuwait,9,0,0,293375,476581
+Middle East,Kuwait,10,0,0,293375,476581
+Middle East,Kuwait,11,0,0,293375,476581
+Middle East,Kuwait,12,0,0,293375,476581
+Middle East,Kuwait,13,0,0,293375,476581
+Middle East,Kuwait,14,0.059,0,293375,476581
+Middle East,Kuwait,15,0.059,0.059,293375,476581
+Middle East,Kuwait,16,0.059,0.059,293375,476581
+Middle East,Kuwait,17,0.059,0.059,293375,476581
+Middle East,Kuwait,18,0.059,0.059,293375,476581
+Middle East,Kuwait,19,0.059,0.059,293375,476581
+Middle East,Kuwait,20,0.059,0.059,293375,476581
+Middle East,Kuwait,21,0.059,0.059,293375,476581
+Middle East,Kuwait,22,0.059,0.059,293375,476581
+Middle East,Kuwait,23,0.059,0.059,293375,476581
+Middle East,Kuwait,24,0.059,0.059,293375,476581
+Latin America,Costa Rica,0,0,0,10,-84
+Latin America,Costa Rica,1,0,0,10,-84
+Latin America,Costa Rica,2,0,0,10,-84
+Latin America,Costa Rica,3,0,0,10,-84
+Latin America,Costa Rica,4,0,0,10,-84
+Latin America,Costa Rica,5,0,0,10,-84
+Latin America,Costa Rica,6,0,0,10,-84
+Latin America,Costa Rica,7,0,0,10,-84
+Latin America,Costa Rica,8,0,0,10,-84
+Latin America,Costa Rica,9,0,0,10,-84
+Latin America,Costa Rica,10,0.001,0,10,-84
+Latin America,Costa Rica,11,0.006,0.001,10,-84
+Latin America,Costa Rica,12,0.011,0.006,10,-84
+Latin America,Costa Rica,13,0.015,0.011,10,-84
+Latin America,Costa Rica,14,0.02,0.015,10,-84
+Latin America,Costa Rica,15,0.025,0.02,10,-84
+Latin America,Costa Rica,16,0.029,0.025,10,-84
+Latin America,Costa Rica,17,0.034,0.029,10,-84
+Latin America,Costa Rica,18,0.039,0.034,10,-84
+Latin America,Costa Rica,19,0.043,0.039,10,-84
+Latin America,Costa Rica,20,0.048,0.043,10,-84
+Latin America,Costa Rica,21,0.048,0.048,10,-84
+Latin America,Costa Rica,22,0.048,0.048,10,-84
+Latin America,Costa Rica,23,0.048,0.048,10,-84
+Latin America,Costa Rica,24,0.048,0.048,10,-84
+Europe,Iceland,0,0,0,65,-18
+Europe,Iceland,1,0,0,65,-18
+Europe,Iceland,2,0,0,65,-18
+Europe,Iceland,3,0,0,65,-18
+Europe,Iceland,4,0,0,65,-18
+Europe,Iceland,5,0,0,65,-18
+Europe,Iceland,6,0,0,65,-18
+Europe,Iceland,7,0,0,65,-18
+Europe,Iceland,8,0,0,65,-18
+Europe,Iceland,9,0,0,65,-18
+Europe,Iceland,10,0,0,65,-18
+Europe,Iceland,11,0,0,65,-18
+Europe,Iceland,12,0,0,65,-18
+Europe,Iceland,13,0,0,65,-18
+Europe,Iceland,14,0,0,65,-18
+Europe,Iceland,15,0,0,65,-18
+Europe,Iceland,16,1.429,0,65,-18
+Europe,Iceland,17,1.429,1.429,65,-18
+Europe,Iceland,18,1.429,1.429,65,-18
+Europe,Iceland,19,1.429,1.429,65,-18
+Europe,Iceland,20,1.429,1.429,65,-18
+Europe,Iceland,21,1.429,1.429,65,-18
+Europe,Iceland,22,1.429,1.429,65,-18
+Europe,Iceland,23,1.429,1.429,65,-18
+Europe,Iceland,24,1.429,1.429,65,-18
+Europe,France,0,0,0,46,2
+Europe,France,1,0,0,46,2
+Europe,France,2,0,0,46,2
+Europe,France,3,0,0,46,2
+Europe,France,4,0,0,46,2
+Europe,France,5,0,0,46,2
+Europe,France,6,0,0,46,2
+Europe,France,7,0,0,46,2
+Europe,France,8,0,0,46,2
+Europe,France,9,0,0,46,2
+Europe,France,10,0,0,46,2
+Europe,France,11,0,0,46,2
+Europe,France,12,0,0,46,2
+Europe,France,13,0,0,46,2
+Europe,France,14,0,0,46,2
+Europe,France,15,0,0,46,2
+Europe,France,16,0,0,46,2
+Europe,France,17,0,0,46,2
+Europe,France,18,0,0,46,2
+Europe,France,19,0,0,46,2
+Europe,France,20,0,0,46,2
+Europe,France,21,0,0,46,2
+Europe,France,22,0.008,0,46,2
+Europe,France,23,0.038,0.008,46,2
+Europe,France,24,0.069,0.038,46,2
+Europe,Latvia,0,0,0,57,25
+Europe,Latvia,1,0,0,57,25
+Europe,Latvia,2,0,0,57,25
+Europe,Latvia,3,0,0,57,25
+Europe,Latvia,4,0,0,57,25
+Europe,Latvia,5,0,0,57,25
+Europe,Latvia,6,0,0,57,25
+Europe,Latvia,7,0,0,57,25
+Europe,Latvia,8,0,0,57,25
+Europe,Latvia,9,0,0,57,25
+Europe,Latvia,10,0,0,57,25
+Europe,Latvia,11,0,0,57,25
+Europe,Latvia,12,0,0,57,25
+Europe,Latvia,13,0,0,57,25
+Europe,Latvia,14,0,0,57,25
+Europe,Latvia,15,0.03,0,57,25
+Europe,Latvia,16,0.051,0.03,57,25
+Europe,Latvia,17,0.073,0.051,57,25
+Europe,Latvia,18,0.094,0.073,57,25
+Europe,Latvia,19,0.115,0.094,57,25
+Europe,Latvia,20,0.136,0.115,57,25
+Europe,Latvia,21,0.157,0.136,57,25
+Europe,Latvia,22,0.204,0.157,57,25
+Europe,Latvia,23,0.245,0.204,57,25
+Europe,Latvia,24,0.284,0.245,57,25
+Europe,Ireland,0,0,0,53,-8
+Europe,Ireland,1,0,0,53,-8
+Europe,Ireland,2,0,0,53,-8
+Europe,Ireland,3,0,0,53,-8
+Europe,Ireland,4,0,0,53,-8
+Europe,Ireland,5,0,0,53,-8
+Europe,Ireland,6,0,0,53,-8
+Europe,Ireland,7,0,0,53,-8
+Europe,Ireland,8,0,0,53,-8
+Europe,Ireland,9,0,0,53,-8
+Europe,Ireland,10,0,0,53,-8
+Europe,Ireland,11,0,0,53,-8
+Europe,Ireland,12,0,0,53,-8
+Europe,Ireland,13,0,0,53,-8
+Europe,Ireland,14,0,0,53,-8
+Europe,Ireland,15,0,0,53,-8
+Europe,Ireland,16,0,0,53,-8
+Europe,Ireland,17,0.036,0,53,-8
+Europe,Ireland,18,0.048,0.036,53,-8
+Europe,Ireland,19,0.059,0.048,53,-8
+Europe,Ireland,20,0.07,0.059,53,-8
+Europe,Ireland,21,0.081,0.07,53,-8
+Europe,Ireland,22,0.157,0.081,53,-8
+Europe,Ireland,23,0.234,0.157,53,-8
+Europe,Ireland,24,0.31,0.234,53,-8
+Europe,Slovenia,0,0,0,46,15
+Europe,Slovenia,1,0,0,46,15
+Europe,Slovenia,2,0,0,46,15
+Europe,Slovenia,3,0,0,46,15
+Europe,Slovenia,4,0,0,46,15
+Europe,Slovenia,5,0,0,46,15
+Europe,Slovenia,6,0,0,46,15
+Europe,Slovenia,7,0,0,46,15
+Europe,Slovenia,8,0,0,46,15
+Europe,Slovenia,9,0,0,46,15
+Europe,Slovenia,10,0,0,46,15
+Europe,Slovenia,11,0,0,46,15
+Europe,Slovenia,12,0,0,46,15
+Europe,Slovenia,13,0,0,46,15
+Europe,Slovenia,14,0.285,0,46,15
+Europe,Slovenia,15,0.285,0.285,46,15
+Europe,Slovenia,16,0.285,0.285,46,15
+Europe,Slovenia,17,0.285,0.285,46,15
+Europe,Slovenia,18,0.285,0.285,46,15
+Europe,Slovenia,19,0.285,0.285,46,15
+Europe,Slovenia,20,0.285,0.285,46,15
+Europe,Slovenia,21,0.285,0.285,46,15
+Europe,Slovenia,22,0.285,0.285,46,15
+Europe,Slovenia,23,0.285,0.285,46,15
+Europe,Slovenia,24,0.285,0.285,46,15
+Europe,Austria,0,0,0,473333,133333
+Europe,Austria,1,0,0,473333,133333
+Europe,Austria,2,0,0,473333,133333
+Europe,Austria,3,0,0,473333,133333
+Europe,Austria,4,0,0,473333,133333
+Europe,Austria,5,0,0,473333,133333
+Europe,Austria,6,0,0,473333,133333
+Europe,Austria,7,0,0,473333,133333
+Europe,Austria,8,0,0,473333,133333
+Europe,Austria,9,0,0,473333,133333
+Europe,Austria,10,0,0,473333,133333
+Europe,Austria,11,0,0,473333,133333
+Europe,Austria,12,0,0,473333,133333
+Europe,Austria,13,0,0,473333,133333
+Europe,Austria,14,0,0,473333,133333
+Europe,Austria,15,0,0,473333,133333
+Europe,Austria,16,0.067,0,473333,133333
+Europe,Austria,17,0.067,0.067,473333,133333
+Europe,Austria,18,0.067,0.067,473333,133333
+Europe,Austria,19,0.067,0.067,473333,133333
+Europe,Austria,20,0.067,0.067,473333,133333
+Europe,Austria,21,0.067,0.067,473333,133333
+Europe,Austria,22,0.067,0.067,473333,133333
+Europe,Austria,23,0.067,0.067,473333,133333
+Europe,Austria,24,0.067,0.067,473333,133333
+Europe,Slovakia,0,0,0,486667,19.5
+Europe,Slovakia,1,0,0,486667,19.5
+Europe,Slovakia,2,0,0,486667,19.5
+Europe,Slovakia,3,0,0,486667,19.5
+Europe,Slovakia,4,0,0,486667,19.5
+Europe,Slovakia,5,0,0,486667,19.5
+Europe,Slovakia,6,0,0,486667,19.5
+Europe,Slovakia,7,0,0,486667,19.5
+Europe,Slovakia,8,0,0,486667,19.5
+Europe,Slovakia,9,0,0,486667,19.5
+Europe,Slovakia,10,0,0,486667,19.5
+Europe,Slovakia,11,0,0,486667,19.5
+Europe,Slovakia,12,0,0,486667,19.5
+Europe,Slovakia,13,0,0,486667,19.5
+Europe,Slovakia,14,0,0,486667,19.5
+Europe,Slovakia,15,0,0,486667,19.5
+Europe,Slovakia,16,0,0,486667,19.5
+Europe,Slovakia,17,0,0,486667,19.5
+Europe,Slovakia,18,0,0,486667,19.5
+Europe,Slovakia,19,0,0,486667,19.5
+Europe,Slovakia,20,0,0,486667,19.5
+Europe,Slovakia,21,0.132,0,486667,19.5
+Europe,Slovakia,22,0.132,0.132,486667,19.5
+Europe,Slovakia,23,0.132,0.132,486667,19.5
+Europe,Slovakia,24,0.132,0.132,486667,19.5
+Europe,Finland,0,0,0,64,26
+Europe,Finland,1,0,0,64,26
+Europe,Finland,2,0,0,64,26
+Europe,Finland,3,0,0,64,26
+Europe,Finland,4,0,0,64,26
+Europe,Finland,5,0,0,64,26
+Europe,Finland,6,0,0,64,26
+Europe,Finland,7,0,0,64,26
+Europe,Finland,8,0,0,64,26
+Europe,Finland,9,0,0,64,26
+Europe,Finland,10,0,0,64,26
+Europe,Finland,11,0,0,64,26
+Europe,Finland,12,0,0,64,26
+Europe,Finland,13,0,0,64,26
+Europe,Finland,14,0,0,64,26
+Europe,Finland,15,0,0,64,26
+Europe,Finland,16,0,0,64,26
+Europe,Finland,17,0.032,0,64,26
+Europe,Finland,18,0.04,0.032,64,26
+Europe,Finland,19,0.048,0.04,64,26
+Europe,Finland,20,0.057,0.048,64,26
+Europe,Finland,21,0.065,0.057,64,26
+Europe,Finland,22,0.098,0.065,64,26
+Europe,Finland,23,0.123,0.098,64,26
+Europe,Finland,24,0.147,0.123,64,26
+Europe,Bulgaria,0,0,0,43,25
+Europe,Bulgaria,1,0,0,43,25
+Europe,Bulgaria,2,0,0,43,25
+Europe,Bulgaria,3,0,0,43,25
+Europe,Bulgaria,4,0,0,43,25
+Europe,Bulgaria,5,0,0,43,25
+Europe,Bulgaria,6,0,0,43,25
+Europe,Bulgaria,7,0,0,43,25
+Europe,Bulgaria,8,0,0,43,25
+Europe,Bulgaria,9,0,0,43,25
+Europe,Bulgaria,10,0,0,43,25
+Europe,Bulgaria,11,0,0,43,25
+Europe,Bulgaria,12,0,0,43,25
+Europe,Bulgaria,13,0,0,43,25
+Europe,Bulgaria,14,0,0,43,25
+Europe,Bulgaria,15,0.025,0,43,25
+Europe,Bulgaria,16,0.066,0.025,43,25
+Europe,Bulgaria,17,0.067,0.066,43,25
+Europe,Bulgaria,18,0.068,0.067,43,25
+Europe,Bulgaria,19,0.076,0.068,43,25
+Europe,Bulgaria,20,0.083,0.076,43,25
+Europe,Bulgaria,21,0.091,0.083,43,25
+Europe,Bulgaria,22,0.099,0.091,43,25
+Europe,Bulgaria,23,0.106,0.099,43,25
+Europe,Bulgaria,24,0.114,0.106,43,25
+Europe,Czechia,0,0,0,49.75,15.5
+Europe,Czechia,1,0,0,49.75,15.5
+Europe,Czechia,2,0,0,49.75,15.5
+Europe,Czechia,3,0,0,49.75,15.5
+Europe,Czechia,4,0,0,49.75,15.5
+Europe,Czechia,5,0,0,49.75,15.5
+Europe,Czechia,6,0,0,49.75,15.5
+Europe,Czechia,7,0,0,49.75,15.5
+Europe,Czechia,8,0,0,49.75,15.5
+Europe,Czechia,9,0,0,49.75,15.5
+Europe,Czechia,10,0,0,49.75,15.5
+Europe,Czechia,11,0,0,49.75,15.5
+Europe,Czechia,12,0,0,49.75,15.5
+Europe,Czechia,13,0,0,49.75,15.5
+Europe,Czechia,14,0,0,49.75,15.5
+Europe,Czechia,15,0,0,49.75,15.5
+Europe,Czechia,16,0,0,49.75,15.5
+Europe,Czechia,17,0,0,49.75,15.5
+Europe,Czechia,18,0,0,49.75,15.5
+Europe,Czechia,19,0,0,49.75,15.5
+Europe,Czechia,20,0,0,49.75,15.5
+Europe,Czechia,21,0.121,0,49.75,15.5
+Europe,Czechia,22,0.121,0.121,49.75,15.5
+Europe,Czechia,23,0.121,0.121,49.75,15.5
+Europe,Czechia,24,0.121,0.121,49.75,15.5
+Europe,Estonia,0,0,0,59,26
+Europe,Estonia,1,0,0,59,26
+Europe,Estonia,2,0,0,59,26
+Europe,Estonia,3,0,0,59,26
+Europe,Estonia,4,0,0,59,26
+Europe,Estonia,5,0,0,59,26
+Europe,Estonia,6,0,0,59,26
+Europe,Estonia,7,0,0,59,26
+Europe,Estonia,8,0,0,59,26
+Europe,Estonia,9,0,0,59,26
+Europe,Estonia,10,0,0,59,26
+Europe,Estonia,11,0,0,59,26
+Europe,Estonia,12,0,0,59,26
+Europe,Estonia,13,0,0,59,26
+Europe,Estonia,14,0.016,0,59,26
+Europe,Estonia,15,0.039,0.016,59,26
+Europe,Estonia,16,0.067,0.039,59,26
+Europe,Estonia,17,0.144,0.067,59,26
+Europe,Estonia,18,0.187,0.144,59,26
+Europe,Estonia,19,0.189,0.187,59,26
+Europe,Estonia,20,0.19,0.189,59,26
+Europe,Estonia,21,0.191,0.19,59,26
+Europe,Estonia,22,0.24,0.191,59,26
+Europe,Estonia,23,0.37,0.24,59,26
+Europe,Estonia,24,0.5,0.37,59,26
+Latin America,Argentina,0,0,0,-34,-64
+Latin America,Argentina,1,0,0,-34,-64
+Latin America,Argentina,2,0,0,-34,-64
+Latin America,Argentina,3,0,0,-34,-64
+Latin America,Argentina,4,0,0,-34,-64
+Latin America,Argentina,5,0,0,-34,-64
+Latin America,Argentina,6,0,0,-34,-64
+Latin America,Argentina,7,0,0,-34,-64
+Latin America,Argentina,8,0,0,-34,-64
+Latin America,Argentina,9,0,0,-34,-64
+Latin America,Argentina,10,0,0,-34,-64
+Latin America,Argentina,11,0,0,-34,-64
+Latin America,Argentina,12,0,0,-34,-64
+Latin America,Argentina,13,0,0,-34,-64
+Latin America,Argentina,14,0,0,-34,-64
+Latin America,Argentina,15,0.002,0,-34,-64
+Latin America,Argentina,16,0.036,0.002,-34,-64
+Latin America,Argentina,17,0.071,0.036,-34,-64
+Latin America,Argentina,18,0.071,0.071,-34,-64
+Latin America,Argentina,19,0.071,0.071,-34,-64
+Latin America,Argentina,20,0.071,0.071,-34,-64
+Latin America,Argentina,21,0.071,0.071,-34,-64
+Latin America,Argentina,22,0.071,0.071,-34,-64
+Latin America,Argentina,23,0.071,0.071,-34,-64
+Latin America,Argentina,24,0.071,0.071,-34,-64
+Europe,Croatia,0,0,0,451667,15.5
+Europe,Croatia,1,0,0,451667,15.5
+Europe,Croatia,2,0,0,451667,15.5
+Europe,Croatia,3,0,0,451667,15.5
+Europe,Croatia,4,0,0,451667,15.5
+Europe,Croatia,5,0,0,451667,15.5
+Europe,Croatia,6,0,0,451667,15.5
+Europe,Croatia,7,0,0,451667,15.5
+Europe,Croatia,8,0,0,451667,15.5
+Europe,Croatia,9,0,0,451667,15.5
+Europe,Croatia,10,0,0,451667,15.5
+Europe,Croatia,11,0,0,451667,15.5
+Europe,Croatia,12,0,0,451667,15.5
+Europe,Croatia,13,0,0,451667,15.5
+Europe,Croatia,14,0,0,451667,15.5
+Europe,Croatia,15,0,0,451667,15.5
+Europe,Croatia,16,0.192,0,451667,15.5
+Europe,Croatia,17,0.218,0.192,451667,15.5
+Europe,Croatia,18,0.245,0.218,451667,15.5
+Europe,Croatia,19,0.272,0.245,451667,15.5
+Europe,Croatia,20,0.299,0.272,451667,15.5
+Europe,Croatia,21,0.318,0.299,451667,15.5
+Europe,Croatia,22,0.336,0.318,451667,15.5
+Europe,Croatia,23,0.419,0.336,451667,15.5
+Europe,Croatia,24,0.502,0.419,451667,15.5
+Europe,Hungary,0,0,0,47,20
+Europe,Hungary,1,0,0,47,20
+Europe,Hungary,2,0,0,47,20
+Europe,Hungary,3,0,0,47,20
+Europe,Hungary,4,0,0,47,20
+Europe,Hungary,5,0,0,47,20
+Europe,Hungary,6,0,0,47,20
+Europe,Hungary,7,0,0,47,20
+Europe,Hungary,8,0,0,47,20
+Europe,Hungary,9,0,0,47,20
+Europe,Hungary,10,0,0,47,20
+Europe,Hungary,11,0,0,47,20
+Europe,Hungary,12,0,0,47,20
+Europe,Hungary,13,0,0,47,20
+Europe,Hungary,14,0.011,0,47,20
+Europe,Hungary,15,0.025,0.011,47,20
+Europe,Hungary,16,0.039,0.025,47,20
+Europe,Hungary,17,0.053,0.039,47,20
+Europe,Hungary,18,0.071,0.053,47,20
+Europe,Hungary,19,0.089,0.071,47,20
+Europe,Hungary,20,0.106,0.089,47,20
+Europe,Hungary,21,0.124,0.106,47,20
+Europe,Hungary,22,0.155,0.124,47,20
+Europe,Hungary,23,0.217,0.155,47,20
+Europe,Hungary,24,0.326,0.217,47,20
+Europe,Greece,0,0,0,39,22
+Europe,Greece,1,0,0,39,22
+Europe,Greece,2,0,0,39,22
+Europe,Greece,3,0,0,39,22
+Europe,Greece,4,0,0,39,22
+Europe,Greece,5,0,0,39,22
+Europe,Greece,6,0,0,39,22
+Europe,Greece,7,0,0,39,22
+Europe,Greece,8,0,0,39,22
+Europe,Greece,9,0,0,39,22
+Europe,Greece,10,0,0,39,22
+Europe,Greece,11,0,0,39,22
+Europe,Greece,12,0,0,39,22
+Europe,Greece,13,0,0,39,22
+Europe,Greece,14,0,0,39,22
+Europe,Greece,15,0.01,0,39,22
+Europe,Greece,16,0.016,0.01,39,22
+Europe,Greece,17,0.022,0.016,39,22
+Europe,Greece,18,0.025,0.022,39,22
+Europe,Greece,19,0.03,0.025,39,22
+Europe,Greece,20,0.037,0.03,39,22
+Europe,Greece,21,0.096,0.037,39,22
+Europe,Greece,22,0.156,0.096,39,22
+Europe,Greece,23,0.203,0.156,39,22
+Europe,Greece,24,0.25,0.203,39,22
+Latin America,Chile,0,0,0,-30,-71
+Latin America,Chile,1,0,0,-30,-71
+Latin America,Chile,2,0,0,-30,-71
+Latin America,Chile,3,0,0,-30,-71
+Latin America,Chile,4,0,0,-30,-71
+Latin America,Chile,5,0,0,-30,-71
+Latin America,Chile,6,0,0,-30,-71
+Latin America,Chile,7,0,0,-30,-71
+Latin America,Chile,8,0,0,-30,-71
+Latin America,Chile,9,0,0,-30,-71
+Latin America,Chile,10,0.002,0,-30,-71
+Latin America,Chile,11,0.027,0.002,-30,-71
+Latin America,Chile,12,0.044,0.027,-30,-71
+Latin America,Chile,13,0.045,0.044,-30,-71
+Latin America,Chile,14,0.045,0.045,-30,-71
+Latin America,Chile,15,0.046,0.045,-30,-71
+Latin America,Chile,16,0.046,0.046,-30,-71
+Latin America,Chile,17,0.046,0.046,-30,-71
+Latin America,Chile,18,0.047,0.046,-30,-71
+Latin America,Chile,19,0.047,0.047,-30,-71
+Latin America,Chile,20,0.047,0.047,-30,-71
+Latin America,Chile,21,0.047,0.047,-30,-71
+Latin America,Chile,22,0.048,0.047,-30,-71
+Latin America,Chile,23,0.048,0.048,-30,-71
+Latin America,Chile,24,0.048,0.048,-30,-71
+Middle East,Oman,0,0,0,21,57
+Middle East,Oman,1,0,0,21,57
+Middle East,Oman,2,0,0,21,57
+Middle East,Oman,3,0,0,21,57
+Middle East,Oman,4,0,0,21,57
+Middle East,Oman,5,0,0,21,57
+Middle East,Oman,6,0,0,21,57
+Middle East,Oman,7,0,0,21,57
+Middle East,Oman,8,0,0,21,57
+Middle East,Oman,9,0,0,21,57
+Middle East,Oman,10,0,0,21,57
+Middle East,Oman,11,0,0,21,57
+Middle East,Oman,12,0,0,21,57
+Middle East,Oman,13,0,0,21,57
+Middle East,Oman,14,0,0,21,57
+Middle East,Oman,15,0.034,0,21,57
+Middle East,Oman,16,0.066,0.034,21,57
+Middle East,Oman,17,0.099,0.066,21,57
+Middle East,Oman,18,0.128,0.099,21,57
+Middle East,Oman,19,0.142,0.128,21,57
+Middle East,Oman,20,0.173,0.142,21,57
+Middle East,Oman,21,0.21,0.173,21,57
+Middle East,Oman,22,0.237,0.21,21,57
+Middle East,Oman,23,0.265,0.237,21,57
+Middle East,Oman,24,0.292,0.265,21,57
+Europe,Portugal,0,0,0,39.5,-8
+Europe,Portugal,1,0,0,39.5,-8
+Europe,Portugal,2,0,0,39.5,-8
+Europe,Portugal,3,0,0,39.5,-8
+Europe,Portugal,4,0,0,39.5,-8
+Europe,Portugal,5,0,0,39.5,-8
+Europe,Portugal,6,0,0,39.5,-8
+Europe,Portugal,7,0,0,39.5,-8
+Europe,Portugal,8,0,0,39.5,-8
+Europe,Portugal,9,0,0,39.5,-8
+Europe,Portugal,10,0,0,39.5,-8
+Europe,Portugal,11,0,0,39.5,-8
+Europe,Portugal,12,0,0,39.5,-8
+Europe,Portugal,13,0,0,39.5,-8
+Europe,Portugal,14,0.047,0,39.5,-8
+Europe,Portugal,15,0.164,0.047,39.5,-8
+Europe,Portugal,16,0.263,0.164,39.5,-8
+Europe,Portugal,17,0.276,0.263,39.5,-8
+Europe,Portugal,18,0.289,0.276,39.5,-8
+Europe,Portugal,19,0.301,0.289,39.5,-8
+Europe,Portugal,20,0.314,0.301,39.5,-8
+Europe,Portugal,21,0.314,0.314,39.5,-8
+Europe,Portugal,22,0.314,0.314,39.5,-8
+Europe,Portugal,23,0.314,0.314,39.5,-8
+Europe,Portugal,24,0.314,0.314,39.5,-8
+Latin America,Mexico,0,0,0,23,-102
+Latin America,Mexico,1,0,0,23,-102
+Latin America,Mexico,2,0,0,23,-102
+Latin America,Mexico,3,0,0,23,-102
+Latin America,Mexico,4,0,0,23,-102
+Latin America,Mexico,5,0,0,23,-102
+Latin America,Mexico,6,0,0,23,-102
+Latin America,Mexico,7,0,0,23,-102
+Latin America,Mexico,8,0,0,23,-102
+Latin America,Mexico,9,0,0,23,-102
+Latin America,Mexico,10,0.002,0,23,-102
+Latin America,Mexico,11,0.003,0.002,23,-102
+Latin America,Mexico,12,0.004,0.003,23,-102
+Latin America,Mexico,13,0.005,0.004,23,-102
+Latin America,Mexico,14,0.007,0.005,23,-102
+Latin America,Mexico,15,0.014,0.007,23,-102
+Latin America,Mexico,16,0.019,0.014,23,-102
+Latin America,Mexico,17,0.015,0.019,23,-102
+Latin America,Mexico,18,0.019,0.015,23,-102
+Latin America,Mexico,19,0.019,0.019,23,-102
+Latin America,Mexico,20,0.019,0.019,23,-102
+Latin America,Mexico,21,0.034,0.019,23,-102
+Latin America,Mexico,22,0.038,0.034,23,-102
+Latin America,Mexico,23,0.042,0.038,23,-102
+Latin America,Mexico,24,0.045,0.042,23,-102
+Europe,Romania,0,0,0,46,25
+Europe,Romania,1,0,0,46,25
+Europe,Romania,2,0,0,46,25
+Europe,Romania,3,0,0,46,25
+Europe,Romania,4,0,0,46,25
+Europe,Romania,5,0,0,46,25
+Europe,Romania,6,0,0,46,25
+Europe,Romania,7,0,0,46,25
+Europe,Romania,8,0,0,46,25
+Europe,Romania,9,0,0,46,25
+Europe,Romania,10,0,0,46,25
+Europe,Romania,11,0,0,46,25
+Europe,Romania,12,0,0,46,25
+Europe,Romania,13,0,0,46,25
+Europe,Romania,14,0.011,0,46,25
+Europe,Romania,15,0.014,0.011,46,25
+Europe,Romania,16,0.035,0.014,46,25
+Europe,Romania,17,0.056,0.035,46,25
+Europe,Romania,18,0.061,0.056,46,25
+Europe,Romania,19,0.069,0.061,46,25
+Europe,Romania,20,0.071,0.069,46,25
+Europe,Romania,21,0.133,0.071,46,25
+Europe,Romania,22,0.216,0.133,46,25
+Europe,Romania,23,0.304,0.216,46,25
+Europe,Romania,24,0.397,0.304,46,25
+Europe,Spain,0,0,0,40,-4
+Europe,Spain,1,0,0,40,-4
+Europe,Spain,2,0,0,40,-4
+Europe,Spain,3,0,0,40,-4
+Europe,Spain,4,0,0,40,-4
+Europe,Spain,5,0,0,40,-4
+Europe,Spain,6,0,0,40,-4
+Europe,Spain,7,0,0,40,-4
+Europe,Spain,8,0,0,40,-4
+Europe,Spain,9,0,0,40,-4
+Europe,Spain,10,0,0,40,-4
+Europe,Spain,11,0,0,40,-4
+Europe,Spain,12,0,0,40,-4
+Europe,Spain,13,0,0,40,-4
+Europe,Spain,14,0,0,40,-4
+Europe,Spain,15,0,0,40,-4
+Europe,Spain,16,0,0,40,-4
+Europe,Spain,17,0,0,40,-4
+Europe,Spain,18,0,0,40,-4
+Europe,Spain,19,0,0,40,-4
+Europe,Spain,20,0,0,40,-4
+Europe,Spain,21,0.177,0,40,-4
+Europe,Spain,22,0.298,0.177,40,-4
+Europe,Spain,23,0.371,0.298,40,-4
+Europe,Spain,24,0.443,0.371,40,-4
+Europe,Denmark,0,0,0,56,10
+Europe,Denmark,1,0,0,56,10
+Europe,Denmark,2,0,0,56,10
+Europe,Denmark,3,0,0,56,10
+Europe,Denmark,4,0,0,56,10
+Europe,Denmark,5,0,0,56,10
+Europe,Denmark,6,0,0,56,10
+Europe,Denmark,7,0,0,56,10
+Europe,Denmark,8,0,0,56,10
+Europe,Denmark,9,0,0,56,10
+Europe,Denmark,10,0,0,56,10
+Europe,Denmark,11,0,0,56,10
+Europe,Denmark,12,0,0,56,10
+Europe,Denmark,13,0.109,0,56,10
+Europe,Denmark,14,0.141,0.109,56,10
+Europe,Denmark,15,0.289,0.141,56,10
+Europe,Denmark,16,0.472,0.289,56,10
+Europe,Denmark,17,0.572,0.472,56,10
+Europe,Denmark,18,0.612,0.572,56,10
+Europe,Denmark,19,0.761,0.612,56,10
+Europe,Denmark,20,0.859,0.761,56,10
+Europe,Denmark,21,0.889,0.859,56,10
+Europe,Denmark,22,1.068,0.889,56,10
+Europe,Denmark,23,1.247,1.068,56,10
+Europe,Denmark,24,1.425,1.247,56,10
+Europe,Poland,0,0,0,52,20
+Europe,Poland,1,0,0,52,20
+Europe,Poland,2,0,0,52,20
+Europe,Poland,3,0,0,52,20
+Europe,Poland,4,0,0,52,20
+Europe,Poland,5,0,0,52,20
+Europe,Poland,6,0,0,52,20
+Europe,Poland,7,0,0,52,20
+Europe,Poland,8,0,0,52,20
+Europe,Poland,9,0,0,52,20
+Europe,Poland,10,0,0,52,20
+Europe,Poland,11,0,0,52,20
+Europe,Poland,12,0,0,52,20
+Europe,Poland,13,0,0,52,20
+Europe,Poland,14,0.005,0,52,20
+Europe,Poland,15,0.017,0.005,52,20
+Europe,Poland,16,0.096,0.017,52,20
+Europe,Poland,17,0.126,0.096,52,20
+Europe,Poland,18,0.128,0.126,52,20
+Europe,Poland,19,0.131,0.128,52,20
+Europe,Poland,20,0.133,0.131,52,20
+Europe,Poland,21,0.134,0.133,52,20
+Europe,Poland,22,0.244,0.134,52,20
+Europe,Poland,23,0.371,0.244,52,20
+Europe,Poland,24,0.424,0.371,52,20
+Europe,Italy,0,0,0,428333,128333
+Europe,Italy,1,0,0,428333,128333
+Europe,Italy,2,0,0,428333,128333
+Europe,Italy,3,0,0,428333,128333
+Europe,Italy,4,0,0,428333,128333
+Europe,Italy,5,0,0,428333,128333
+Europe,Italy,6,0,0,428333,128333
+Europe,Italy,7,0,0,428333,128333
+Europe,Italy,8,0,0,428333,128333
+Europe,Italy,9,0,0,428333,128333
+Europe,Italy,10,0,0,428333,128333
+Europe,Italy,11,0,0,428333,128333
+Europe,Italy,12,0,0,428333,128333
+Europe,Italy,13,0.012,0,428333,128333
+Europe,Italy,14,0.014,0.012,428333,128333
+Europe,Italy,15,0.016,0.014,428333,128333
+Europe,Italy,16,0.024,0.016,428333,128333
+Europe,Italy,17,0.063,0.024,428333,128333
+Europe,Italy,18,0.081,0.063,428333,128333
+Europe,Italy,19,0.142,0.081,428333,128333
+Europe,Italy,20,0.198,0.142,428333,128333
+Europe,Italy,21,0.301,0.198,428333,128333
+Europe,Italy,22,0.405,0.301,428333,128333
+Europe,Italy,23,0.508,0.405,428333,128333
+Europe,Italy,24,0.683,0.508,428333,128333
+Middle East,Bahrain,0,0,0,26,50.55
+Middle East,Bahrain,1,0,0,26,50.55
+Middle East,Bahrain,2,0,0,26,50.55
+Middle East,Bahrain,3,0,0,26,50.55
+Middle East,Bahrain,4,0,0,26,50.55
+Middle East,Bahrain,5,0,0,26,50.55
+Middle East,Bahrain,6,0,0,26,50.55
+Middle East,Bahrain,7,0,0,26,50.55
+Middle East,Bahrain,8,0,0,26,50.55
+Middle East,Bahrain,9,2.29,0,26,50.55
+Middle East,Bahrain,10,2.943,2.29,26,50.55
+Middle East,Bahrain,11,2.97,2.943,26,50.55
+Middle East,Bahrain,12,3.03,2.97,26,50.55
+Middle East,Bahrain,13,3.151,3.03,26,50.55
+Middle East,Bahrain,14,3.233,3.151,26,50.55
+Middle East,Bahrain,15,3.293,3.233,26,50.55
+Middle East,Bahrain,16,3.368,3.293,26,50.55
+Middle East,Bahrain,17,3.446,3.368,26,50.55
+Middle East,Bahrain,18,3.488,3.446,26,50.55
+Middle East,Bahrain,19,3.532,3.488,26,50.55
+Middle East,Bahrain,20,3.567,3.532,26,50.55
+Middle East,Bahrain,21,3.621,3.567,26,50.55
+Middle East,Bahrain,22,3.755,3.621,26,50.55
+Middle East,Bahrain,23,4,3.755,26,50.55
+Middle East,Bahrain,24,4.245,4,26,50.55
+Middle East,Emirates,0,0,0,24,54
+Middle East,Emirates,1,0,0,24,54
+Middle East,Emirates,2,0,0,24,54
+Middle East,Emirates,3,0,0,24,54
+Middle East,Emirates,4,0,0,24,54
+Middle East,Emirates,5,0,0,24,54
+Middle East,Emirates,6,0,0,24,54
+Middle East,Emirates,7,0,0,24,54
+Middle East,Emirates,8,0,0,24,54
+Middle East,Emirates,9,0,0,24,54
+Middle East,Emirates,10,0,0,24,54
+Middle East,Emirates,11,0,0,24,54
+Middle East,Emirates,12,0,0,24,54
+Middle East,Emirates,13,0,0,24,54
+Middle East,Emirates,14,0,0,24,54
+Middle East,Emirates,15,0,0,24,54
+Middle East,Emirates,16,0,0,24,54
+Middle East,Emirates,17,0,0,24,54
+Middle East,Emirates,18,0,0,24,54
+Middle East,Emirates,19,0,0,24,54
+Middle East,Emirates,20,0,0,24,54
+Middle East,Emirates,21,0,0,24,54
+Middle East,Emirates,22,8.355,0,24,54
+Middle East,Emirates,23,8.665,8.355,24,54
+Middle East,Emirates,24,8.975,8.665,24,54
+Europe,Russia,0,0,0,60,100
+Europe,Russia,1,0.02,0,60,100
+Europe,Russia,2,0.022,0.02,60,100
+Europe,Russia,3,0.024,0.022,60,100
+Europe,Russia,4,0.026,0.024,60,100
+Europe,Russia,5,0.029,0.026,60,100
+Europe,Russia,6,0.031,0.029,60,100
+Europe,Russia,7,0.033,0.031,60,100
+Europe,Russia,8,0.036,0.033,60,100
+Europe,Russia,9,0.036,0.036,60,100
+Europe,Russia,10,0.036,0.036,60,100
+Europe,Russia,11,0.036,0.036,60,100
+Europe,Russia,12,0.036,0.036,60,100
+Europe,Russia,13,0.036,0.036,60,100
+Europe,Russia,14,0.036,0.036,60,100
+Europe,Russia,15,0.036,0.036,60,100
+Europe,Russia,16,0.036,0.036,60,100
+Europe,Russia,17,0.036,0.036,60,100
+Europe,Russia,18,0.036,0.036,60,100
+Europe,Russia,19,0.548,0.036,60,100
+Europe,Russia,20,0.548,0.548,60,100
+Europe,Russia,21,0.548,0.548,60,100
+Europe,Russia,22,0.548,0.548,60,100
+Europe,Russia,23,0.548,0.548,60,100
+Europe,Russia,24,0.548,0.548,60,100
+North America,Canada,0,0,0,60,-95
+North America,Canada,1,0.003,0,60,-95
+North America,Canada,2,0.01,0.003,60,-95
+North America,Canada,3,0.019,0.01,60,-95
+North America,Canada,4,0.028,0.019,60,-95
+North America,Canada,5,0.032,0.028,60,-95
+North America,Canada,6,0.038,0.032,60,-95
+North America,Canada,7,0.055,0.038,60,-95
+North America,Canada,8,0.07,0.055,60,-95
+North America,Canada,9,0.093,0.07,60,-95
+North America,Canada,10,0.12,0.093,60,-95
+North America,Canada,11,0.121,0.12,60,-95
+North America,Canada,12,0.129,0.121,60,-95
+North America,Canada,13,0.139,0.129,60,-95
+North America,Canada,14,0.158,0.139,60,-95
+North America,Canada,15,0.187,0.158,60,-95
+North America,Canada,16,0.224,0.187,60,-95
+North America,Canada,17,0.26,0.224,60,-95
+North America,Canada,18,0.287,0.26,60,-95
+North America,Canada,19,0.308,0.287,60,-95
+North America,Canada,20,0.323,0.308,60,-95
+North America,Canada,21,0.38,0.323,60,-95
+North America,Canada,22,0.433,0.38,60,-95
+North America,Canada,23,0.515,0.433,60,-95
+North America,Canada,24,0.621,0.515,60,-95
+Europe,Germany,0,0,0,51,9
+Europe,Germany,1,0,0,51,9
+Europe,Germany,2,0,0,51,9
+Europe,Germany,3,0,0,51,9
+Europe,Germany,4,0,0,51,9
+Europe,Germany,5,0,0,51,9
+Europe,Germany,6,0,0,51,9
+Europe,Germany,7,0,0,51,9
+Europe,Germany,8,0,0,51,9
+Europe,Germany,9,0,0,51,9
+Europe,Germany,10,0,0,51,9
+Europe,Germany,11,0,0,51,9
+Europe,Germany,12,0,0,51,9
+Europe,Germany,13,0.028,0,51,9
+Europe,Germany,14,0.05,0.028,51,9
+Europe,Germany,15,0.099,0.05,51,9
+Europe,Germany,16,0.165,0.099,51,9
+Europe,Germany,17,0.208,0.165,51,9
+Europe,Germany,18,0.244,0.208,51,9
+Europe,Germany,19,0.296,0.244,51,9
+Europe,Germany,20,0.325,0.296,51,9
+Europe,Germany,21,0.386,0.325,51,9
+Europe,Germany,22,0.442,0.386,51,9
+Europe,Germany,23,0.498,0.442,51,9
+Europe,Germany,24,0.498,0.498,51,9
+Europe,United Kingdom,0,0,0,54,-2
+Europe,United Kingdom,1,0,0,54,-2
+Europe,United Kingdom,2,0,0,54,-2
+Europe,United Kingdom,3,0,0,54,-2
+Europe,United Kingdom,4,0,0,54,-2
+Europe,United Kingdom,5,0,0,54,-2
+Europe,United Kingdom,6,0.944,0,54,-2
+Europe,United Kingdom,7,1.008,0.944,54,-2
+Europe,United Kingdom,8,1.072,1.008,54,-2
+Europe,United Kingdom,9,1.136,1.072,54,-2
+Europe,United Kingdom,10,1.2,1.136,54,-2
+Europe,United Kingdom,11,1.264,1.2,54,-2
+Europe,United Kingdom,12,1.328,1.264,54,-2
+Europe,United Kingdom,13,1.391,1.328,54,-2
+Europe,United Kingdom,14,1.465,1.391,54,-2
+Europe,United Kingdom,15,1.539,1.465,54,-2
+Europe,United Kingdom,16,1.614,1.539,54,-2
+Europe,United Kingdom,17,1.688,1.614,54,-2
+Europe,United Kingdom,18,1.762,1.688,54,-2
+Europe,United Kingdom,19,1.836,1.762,54,-2
+Europe,United Kingdom,20,1.91,1.836,54,-2
+Europe,United Kingdom,21,1.91,1.91,54,-2
+Europe,United Kingdom,22,1.91,1.91,54,-2
+Europe,United Kingdom,23,1.91,1.91,54,-2
+Europe,United Kingdom,24,1.91,1.91,54,-2
+Asia,China,0,0,0,35,105
+Asia,China,1,0.104,0,35,105
+Asia,China,2,0.117,0.104,35,105
+Asia,China,3,0.13,0.117,35,105
+Asia,China,4,0.143,0.13,35,105
+Asia,China,5,0.156,0.143,35,105
+Asia,China,6,0.169,0.156,35,105
+Asia,China,7,0.182,0.169,35,105
+Asia,China,8,0.195,0.182,35,105
+Asia,China,9,0.208,0.195,35,105
+Asia,China,10,0.221,0.208,35,105
+Asia,China,11,0.234,0.221,35,105
+Asia,China,12,0.248,0.234,35,105
+Asia,China,13,0.261,0.248,35,105
+Asia,China,14,0.274,0.261,35,105
+Asia,China,15,0.287,0.274,35,105
+Asia,China,16,0.3,0.287,35,105
+Asia,China,17,0.313,0.3,35,105
+Asia,China,18,0.313,0.313,35,105
+Asia,China,19,0.313,0.313,35,105
+Asia,China,20,0.313,0.313,35,105
+Asia,China,21,0.313,0.313,35,105
+Asia,China,22,0.313,0.313,35,105
+Asia,China,23,0.313,0.313,35,105
+Asia,China,24,0.313,0.313,35,105
+Middle East,Israel,0,0,0,31.5,34.75
+Middle East,Israel,1,0,0,31.5,34.75
+Middle East,Israel,2,0,0,31.5,34.75
+Middle East,Israel,3,0,0,31.5,34.75
+Middle East,Israel,4,0,0,31.5,34.75
+Middle East,Israel,5,0,0,31.5,34.75
+Middle East,Israel,6,0.089,0,31.5,34.75
+Middle East,Israel,7,0.363,0.089,31.5,34.75
+Middle East,Israel,8,0.855,0.363,31.5,34.75
+Middle East,Israel,9,1.554,0.855,31.5,34.75
+Middle East,Israel,10,2.41,1.554,31.5,34.75
+Middle East,Israel,11,2.857,2.41,31.5,34.75
+Middle East,Israel,12,3.227,2.857,31.5,34.75
+Middle East,Israel,13,4.346,3.227,31.5,34.75
+Middle East,Israel,14,5.68,4.346,31.5,34.75
+Middle East,Israel,15,7.436,5.68,31.5,34.75
+Middle East,Israel,16,9.176,7.436,31.5,34.75
+Middle East,Israel,17,10.965,9.176,31.5,34.75
+Middle East,Israel,18,11.553,10.965,31.5,34.75
+Middle East,Israel,19,12.593,11.553,31.5,34.75
+Middle East,Israel,20,14.141,12.593,31.5,34.75
+Middle East,Israel,21,15.828,14.141,31.5,34.75
+Middle East,Israel,22,17.068,15.828,31.5,34.75
+Middle East,Israel,23,18.308,17.068,31.5,34.75
+Middle East,Israel,24,19.548,18.308,31.5,34.75
+North America,United States,0,0,0,38,-97
+North America,United States,1,0,0,38,-97
+North America,United States,2,0,0,38,-97
+North America,United States,3,0,0,38,-97
+North America,United States,4,0,0,38,-97
+North America,United States,5,0,0,38,-97
+North America,United States,6,0.168,0,38,-97
+North America,United States,7,0.186,0.168,38,-97
+North America,United States,8,0.245,0.186,38,-97
+North America,United States,9,0.305,0.245,38,-97
+North America,United States,10,0.399,0.305,38,-97
+North America,United States,11,0.493,0.399,38,-97
+North America,United States,12,0.587,0.493,38,-97
+North America,United States,13,0.615,0.587,38,-97
+North America,United States,14,0.643,0.615,38,-97
+North America,United States,15,0.743,0.643,38,-97
+North America,United States,16,0.844,0.743,38,-97
+North America,United States,17,0.988,0.844,38,-97
+North America,United States,18,1.133,0.988,38,-97
+North America,United States,19,1.277,1.133,38,-97
+North America,United States,20,1.328,1.277,38,-97
+North America,United States,21,1.379,1.328,38,-97
+North America,United States,22,1.461,1.379,38,-97
+North America,United States,23,1.603,1.461,38,-97
+North America,United States,24,1.788,1.603,38,-97
+Middle East,Saudi Arabia,0,0,0,25,45
+Middle East,Saudi Arabia,1,0,0,25,45
+Middle East,Saudi Arabia,2,0,0,25,45
+Middle East,Saudi Arabia,3,0,0,25,45
+Middle East,Saudi Arabia,4,0,0,25,45
+Middle East,Saudi Arabia,5,0,0,25,45
+Middle East,Saudi Arabia,6,0,0,25,45
+Middle East,Saudi Arabia,7,0,0,25,45
+Middle East,Saudi Arabia,8,0,0,25,45
+Middle East,Saudi Arabia,9,0,0,25,45
+Middle East,Saudi Arabia,10,0,0,25,45
+Middle East,Saudi Arabia,11,0,0,25,45
+Middle East,Saudi Arabia,12,0,0,25,45
+Middle East,Saudi Arabia,13,0,0,25,45
+Middle East,Saudi Arabia,14,0,0,25,45
+Middle East,Saudi Arabia,15,0,0,25,45
+Middle East,Saudi Arabia,16,0,0,25,45
+Middle East,Saudi Arabia,17,0,0,25,45
+Middle East,Saudi Arabia,18,0,0,25,45
+Middle East,Saudi Arabia,19,0,0,25,45
+Middle East,Saudi Arabia,20,0,0,25,45
+Middle East,Saudi Arabia,21,0,0,25,45
+Middle East,Saudi Arabia,22,0,0,25,45
+Middle East,Saudi Arabia,23,0.287,0,25,45
+Middle East,Saudi Arabia,24,0.287,0.287,25,45
